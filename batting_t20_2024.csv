@@ -1,0 +1,851 @@
+Match Id,Match Name,Team_Inning,BatsmanName,Batting Pos,Out By,Not Out / Out,Runs,Balls,4s,6s,SR(strike rate)
+T20I # 2729,India vs South-Africa-Final-1415755,India,Rohit Sharma (c),1,c Klaasen b Maharaj,Out,9,5,2,0,180
+T20I # 2729,India vs South-Africa-Final-1415755,India,Virat Kohli,2,c Rabada b Jansen,Out,76,59,6,2,128.81
+T20I # 2729,India vs South-Africa-Final-1415755,India,Rishabh Pant ,3,c de Kock b Maharaj,Out,0,2,0,0,0
+T20I # 2729,India vs South-Africa-Final-1415755,India,Suryakumar Yadav,4,c Klaasen b Rabada,Out,3,4,0,0,75
+T20I # 2729,India vs South-Africa-Final-1415755,India,Axar Patel,5,run out (de Kock),Out,47,31,1,4,151.61
+T20I # 2729,India vs South-Africa-Final-1415755,India,Shivam Dube,6,c Miller b Nortje,Out,27,16,3,1,168.75
+T20I # 2729,India vs South-Africa-Final-1415755,India,Hardik Pandya,7,not out,Not_Out,5,2,1,0,250
+T20I # 2729,India vs South-Africa-Final-1415755,India,Ravindra Jadeja,8,c Maharaj b Nortje,Out,2,2,0,0,100
+T20I # 2729,India vs South-Africa-Final-1415755,South Africa,Reeza Hendricks,1,b Bumrah,Out,4,5,1,0,80
+T20I # 2729,India vs South-Africa-Final-1415755,South Africa,Quinton de Kock ,2,c Kuldeep Yadav b Arshdeep Singh,Out,39,31,4,1,125.8
+T20I # 2729,India vs South-Africa-Final-1415755,South Africa,Aiden Markram (c),3,c Pant b Arshdeep Singh,Out,4,5,1,0,80
+T20I # 2729,India vs South-Africa-Final-1415755,South Africa,Tristan Stubbs,4,b Patel,Out,31,21,3,1,147.61
+T20I # 2729,India vs South-Africa-Final-1415755,South Africa,Heinrich Klaasen,5,c Pant b Pandya,Out,52,27,2,5,192.59
+T20I # 2729,India vs South-Africa-Final-1415755,South Africa,David Miller,6,c Yadav b Pandya,Out,21,17,1,1,123.52
+T20I # 2729,India vs South-Africa-Final-1415755,South Africa,Marco Jansen,7,b Bumrah,Out,2,4,0,0,50
+T20I # 2729,India vs South-Africa-Final-1415755,South Africa,Keshav Maharaj,8,not out,Not_Out,2,7,0,0,28.57
+T20I # 2729,India vs South-Africa-Final-1415755,South Africa,Kagiso Rabada,9,c Yadav b Pandya,Out,4,3,1,0,133.33
+T20I # 2729,India vs South-Africa-Final-1415755,South Africa,Anrich Nortje,10,not out,Not_Out,1,1,0,0,100
+T20I # 2724,England vs India-2Nd-Semi-Final-1415754,India,Rohit Sharma (c),1,b Rashid,Out,57,39,6,2,146.15
+T20I # 2724,England vs India-2Nd-Semi-Final-1415754,India,Virat Kohli,2,b Topley,Out,9,9,0,1,100
+T20I # 2724,England vs India-2Nd-Semi-Final-1415754,India,Rishabh Pant ,3,c Bairstow b Curran,Out,4,6,0,0,66.66
+T20I # 2724,England vs India-2Nd-Semi-Final-1415754,India,Suryakumar Yadav,4,c Jordan b Archer,Out,47,36,4,2,130.55
+T20I # 2724,England vs India-2Nd-Semi-Final-1415754,India,Hardik Pandya,5,c Curran b Jordan,Out,23,13,1,2,176.92
+T20I # 2724,England vs India-2Nd-Semi-Final-1415754,India,Ravindra Jadeja,6,not out,Not_Out,17,9,2,0,188.88
+T20I # 2724,England vs India-2Nd-Semi-Final-1415754,India,Shivam Dube,7,c Buttler b Jordan,Out,0,1,0,0,0
+T20I # 2724,England vs India-2Nd-Semi-Final-1415754,India,Axar Patel,8,c Salt b Jordan,Out,10,6,0,1,166.66
+T20I # 2724,England vs India-2Nd-Semi-Final-1415754,India,Arshdeep Singh,9,not out,Not_Out,1,1,0,0,100
+T20I # 2724,England vs India-2Nd-Semi-Final-1415754,England,Phil Salt,1,b Bumrah,Out,5,8,0,0,62.5
+T20I # 2724,England vs India-2Nd-Semi-Final-1415754,England,Jos Buttler (c),2,c Pant b Patel,Out,23,15,4,0,153.33
+T20I # 2724,England vs India-2Nd-Semi-Final-1415754,England,Moeen Ali,3,st Pant b Patel,Out,8,10,0,0,80
+T20I # 2724,England vs India-2Nd-Semi-Final-1415754,England,Jonny Bairstow,4,b Patel,Out,0,3,0,0,0
+T20I # 2724,England vs India-2Nd-Semi-Final-1415754,England,Harry Brook,5,b Kuldeep Yadav,Out,25,19,3,0,131.57
+T20I # 2724,England vs India-2Nd-Semi-Final-1415754,England,Sam Curran,6,lbw b Kuldeep Yadav,Out,2,4,0,0,50
+T20I # 2724,England vs India-2Nd-Semi-Final-1415754,England,Liam Livingstone,7,run out (Kuldeep Yadav/Patel),Out,11,16,0,0,68.75
+T20I # 2724,England vs India-2Nd-Semi-Final-1415754,England,Chris Jordan,8,lbw b Kuldeep Yadav,Out,1,5,0,0,20
+T20I # 2724,England vs India-2Nd-Semi-Final-1415754,England,Jofra Archer,9,lbw b Bumrah,Out,21,15,1,2,140
+T20I # 2724,England vs India-2Nd-Semi-Final-1415754,England,Adil Rashid,10,run out (Yadav),Out,2,2,0,0,100
+T20I # 2724,England vs India-2Nd-Semi-Final-1415754,England,Reece Topley,11,not out,Not_Out,3,3,0,0,100
+T20I # 2723,Afghanistan vs South-Africa-1St-Semi-Final-1415753,Afghanistan,Rahmanullah Gurbaz ,1,c Hendricks b Jansen,Out,0,3,0,0,0
+T20I # 2723,Afghanistan vs South-Africa-1St-Semi-Final-1415753,Afghanistan,Ibrahim Zadran,2,b Rabada,Out,2,5,0,0,40
+T20I # 2723,Afghanistan vs South-Africa-1St-Semi-Final-1415753,Afghanistan,Gulbadin Naib,3,b Jansen,Out,9,8,2,0,112.5
+T20I # 2723,Afghanistan vs South-Africa-1St-Semi-Final-1415753,Afghanistan,Azmatullah Omarzai,4,c Stubbs b Nortje,Out,10,12,2,0,83.33
+T20I # 2723,Afghanistan vs South-Africa-1St-Semi-Final-1415753,Afghanistan,Mohammad Nabi,5,b Rabada,Out,0,3,0,0,0
+T20I # 2723,Afghanistan vs South-Africa-1St-Semi-Final-1415753,Afghanistan,Nangeyalia Kharote,6,c de Kock b Jansen,Out,2,7,0,0,28.57
+T20I # 2723,Afghanistan vs South-Africa-1St-Semi-Final-1415753,Afghanistan,Karim Janat,7,lbw b Shamsi,Out,8,13,1,0,61.53
+T20I # 2723,Afghanistan vs South-Africa-1St-Semi-Final-1415753,Afghanistan,Rashid Khan (c),8,b Nortje,Out,8,8,2,0,100
+T20I # 2723,Afghanistan vs South-Africa-1St-Semi-Final-1415753,Afghanistan,Noor Ahmad,9,lbw b Shamsi,Out,0,2,0,0,0
+T20I # 2723,Afghanistan vs South-Africa-1St-Semi-Final-1415753,Afghanistan,Naveen-ul-Haq,10,lbw b Shamsi,Out,2,8,0,0,25
+T20I # 2723,Afghanistan vs South-Africa-1St-Semi-Final-1415753,Afghanistan,Fazalhaq Farooqi,11,not out,Not_Out,2,2,0,0,100
+T20I # 2723,Afghanistan vs South-Africa-1St-Semi-Final-1415753,South Africa,Quinton de Kock ,1,b Fazalhaq Farooqi,Out,5,8,1,0,62.5
+T20I # 2723,Afghanistan vs South-Africa-1St-Semi-Final-1415753,South Africa,Reeza Hendricks,2,not out,Not_Out,29,25,3,1,116
+T20I # 2723,Afghanistan vs South-Africa-1St-Semi-Final-1415753,South Africa,Aiden Markram (c),3,not out,Not_Out,23,21,4,0,109.52
+T20I # 2722,Afghanistan vs Bangladesh-52Nd-Match-Super-Eights-Group-1-1415752,Afghanistan,Rahmanullah Gurbaz ,1,c Soumya Sarkar b Rishad Hossain,Out,43,55,3,1,78.18
+T20I # 2722,Afghanistan vs Bangladesh-52Nd-Match-Super-Eights-Group-1-1415752,Afghanistan,Ibrahim Zadran,2,c Tanzim Hasan Sakib b Rishad Hossain,Out,18,29,1,0,62.06
+T20I # 2722,Afghanistan vs Bangladesh-52Nd-Match-Super-Eights-Group-1-1415752,Afghanistan,Azmatullah Omarzai,3,c Litton Das b Mustafizur Rahman,Out,10,12,0,0,83.33
+T20I # 2722,Afghanistan vs Bangladesh-52Nd-Match-Super-Eights-Group-1-1415752,Afghanistan,Gulbadin Naib,4,c Soumya Sarkar b Rishad Hossain,Out,4,3,1,0,133.33
+T20I # 2722,Afghanistan vs Bangladesh-52Nd-Match-Super-Eights-Group-1-1415752,Afghanistan,Mohammad Nabi,5,c Najmul Hossain Shanto b Taskin Ahmed,Out,1,5,0,0,20
+T20I # 2722,Afghanistan vs Bangladesh-52Nd-Match-Super-Eights-Group-1-1415752,Afghanistan,Karim Janat,6,not out,Not_Out,7,6,1,0,116.66
+T20I # 2722,Afghanistan vs Bangladesh-52Nd-Match-Super-Eights-Group-1-1415752,Afghanistan,Rashid Khan (c),7,not out,Not_Out,19,10,0,3,190
+T20I # 2722,Afghanistan vs Bangladesh-52Nd-Match-Super-Eights-Group-1-1415752,Bangladesh,Litton Das ,1,not out,Not_Out,54,49,5,1,110.2
+T20I # 2722,Afghanistan vs Bangladesh-52Nd-Match-Super-Eights-Group-1-1415752,Bangladesh,Tanzid Hasan,2,lbw b Fazalhaq Farooqi,Out,0,3,0,0,0
+T20I # 2722,Afghanistan vs Bangladesh-52Nd-Match-Super-Eights-Group-1-1415752,Bangladesh,Najmul Hossain Shanto (c),3,c Mohammad Nabi b Naveen-ul-Haq,Out,5,5,1,0,100
+T20I # 2722,Afghanistan vs Bangladesh-52Nd-Match-Super-Eights-Group-1-1415752,Bangladesh,Shakib Al Hasan,4,c & b Naveen-ul-Haq,Out,0,1,0,0,0
+T20I # 2722,Afghanistan vs Bangladesh-52Nd-Match-Super-Eights-Group-1-1415752,Bangladesh,Soumya Sarkar,5,b Rashid Khan,Out,10,10,1,0,100
+T20I # 2722,Afghanistan vs Bangladesh-52Nd-Match-Super-Eights-Group-1-1415752,Bangladesh,Towhid Hridoy,6,c Ibrahim Zadran b Rashid Khan,Out,14,9,2,0,155.55
+T20I # 2722,Afghanistan vs Bangladesh-52Nd-Match-Super-Eights-Group-1-1415752,Bangladesh,Mahmudullah,7,c sub (Mohammad Ishaq) b Rashid Khan,Out,6,9,1,0,66.66
+T20I # 2722,Afghanistan vs Bangladesh-52Nd-Match-Super-Eights-Group-1-1415752,Bangladesh,Rishad Hossain,8,b Rashid Khan,Out,0,1,0,0,0
+T20I # 2722,Afghanistan vs Bangladesh-52Nd-Match-Super-Eights-Group-1-1415752,Bangladesh,Tanzim Hasan Sakib,9,c Mohammad Nabi b Gulbadin Naib,Out,3,10,0,0,30
+T20I # 2722,Afghanistan vs Bangladesh-52Nd-Match-Super-Eights-Group-1-1415752,Bangladesh,Taskin Ahmed,10,b Naveen-ul-Haq,Out,2,9,0,0,22.22
+T20I # 2722,Afghanistan vs Bangladesh-52Nd-Match-Super-Eights-Group-1-1415752,Bangladesh,Mustafizur Rahman,11,lbw b Naveen-ul-Haq,Out,0,1,0,0,0
+T20I # 2721,Australia vs India-51St-Match-Super-Eights-Group-1-1415751,India,Rohit Sharma (c),1,b Starc,Out,92,41,7,8,224.39
+T20I # 2721,Australia vs India-51St-Match-Super-Eights-Group-1-1415751,India,Virat Kohli,2,c David b Hazlewood,Out,0,5,0,0,0
+T20I # 2721,Australia vs India-51St-Match-Super-Eights-Group-1-1415751,India,Rishabh Pant ,3,c Hazlewood b Stoinis,Out,15,14,1,1,107.14
+T20I # 2721,Australia vs India-51St-Match-Super-Eights-Group-1-1415751,India,Suryakumar Yadav,4,c Wade b Starc,Out,31,16,3,2,193.75
+T20I # 2721,Australia vs India-51St-Match-Super-Eights-Group-1-1415751,India,Shivam Dube,5,c Warner b Stoinis,Out,28,22,2,1,127.27
+T20I # 2721,Australia vs India-51St-Match-Super-Eights-Group-1-1415751,India,Hardik Pandya,6,not out,Not_Out,27,17,1,2,158.82
+T20I # 2721,Australia vs India-51St-Match-Super-Eights-Group-1-1415751,India,Ravindra Jadeja,7,not out,Not_Out,9,5,0,1,180
+T20I # 2721,Australia vs India-51St-Match-Super-Eights-Group-1-1415751,Australia,David Warner,1,c Yadav b Arshdeep Singh,Out,6,6,1,0,100
+T20I # 2721,Australia vs India-51St-Match-Super-Eights-Group-1-1415751,Australia,Travis Head,2,c Sharma b Bumrah,Out,76,43,9,4,176.74
+T20I # 2721,Australia vs India-51St-Match-Super-Eights-Group-1-1415751,Australia,Mitchell Marsh (c),3,c Patel b Kuldeep Yadav,Out,37,28,3,2,132.14
+T20I # 2721,Australia vs India-51St-Match-Super-Eights-Group-1-1415751,Australia,Glenn Maxwell,4,b Kuldeep Yadav,Out,20,12,2,1,166.66
+T20I # 2721,Australia vs India-51St-Match-Super-Eights-Group-1-1415751,Australia,Marcus Stoinis,5,c Pandya b Patel,Out,2,4,0,0,50
+T20I # 2721,Australia vs India-51St-Match-Super-Eights-Group-1-1415751,Australia,Tim David,6,c Bumrah b Arshdeep Singh,Out,15,11,1,1,136.36
+T20I # 2721,Australia vs India-51St-Match-Super-Eights-Group-1-1415751,Australia,Matthew Wade ,7,c Kuldeep Yadav b Arshdeep Singh,Out,1,2,0,0,50
+T20I # 2721,Australia vs India-51St-Match-Super-Eights-Group-1-1415751,Australia,Pat Cummins,8,not out,Not_Out,11,7,0,1,157.14
+T20I # 2721,Australia vs India-51St-Match-Super-Eights-Group-1-1415751,Australia,Mitchell Starc,9,not out,Not_Out,4,7,0,0,57.14
+T20I # 2720,West-Indies vs South-Africa-50Th-Match-Super-Eights-Group-2-1415750,West Indies,Kyle Mayers,1,c Stubbs b Shamsi,Out,35,34,3,2,102.94
+T20I # 2720,West-Indies vs South-Africa-50Th-Match-Super-Eights-Group-2-1415750,West Indies,Shai Hope,2,c Stubbs b Jansen,Out,0,1,0,0,0
+T20I # 2720,West-Indies vs South-Africa-50Th-Match-Super-Eights-Group-2-1415750,West Indies,Nicholas Pooran ,3,c Jansen b Markram,Out,1,3,0,0,33.33
+T20I # 2720,West-Indies vs South-Africa-50Th-Match-Super-Eights-Group-2-1415750,West Indies,Roston Chase,4,c Rabada b Shamsi,Out,52,42,3,2,123.8
+T20I # 2720,West-Indies vs South-Africa-50Th-Match-Super-Eights-Group-2-1415750,West Indies,Rovman Powell (c),5,st de Kock b Maharaj,Out,1,2,0,0,50
+T20I # 2720,West-Indies vs South-Africa-50Th-Match-Super-Eights-Group-2-1415750,West Indies,Sherfane Rutherford,6,c Markram b Shamsi,Out,0,4,0,0,0
+T20I # 2720,West-Indies vs South-Africa-50Th-Match-Super-Eights-Group-2-1415750,West Indies,Andre Russell,7,run out (Nortje),Out,15,9,0,2,166.66
+T20I # 2720,West-Indies vs South-Africa-50Th-Match-Super-Eights-Group-2-1415750,West Indies,Akeal Hosein,8,c & b Rabada,Out,6,11,1,0,54.54
+T20I # 2720,West-Indies vs South-Africa-50Th-Match-Super-Eights-Group-2-1415750,West Indies,Alzarri Joseph,9,not out,Not_Out,11,7,0,1,157.14
+T20I # 2720,West-Indies vs South-Africa-50Th-Match-Super-Eights-Group-2-1415750,West Indies,Gudakesh Motie,10,not out,Not_Out,4,7,1,0,57.14
+T20I # 2720,West-Indies vs South-Africa-50Th-Match-Super-Eights-Group-2-1415750,South Africa,Quinton de Kock ,1,c Rutherford b Russell,Out,12,7,3,0,171.42
+T20I # 2720,West-Indies vs South-Africa-50Th-Match-Super-Eights-Group-2-1415750,South Africa,Reeza Hendricks,2,c Pooran b Russell,Out,0,1,0,0,0
+T20I # 2720,West-Indies vs South-Africa-50Th-Match-Super-Eights-Group-2-1415750,South Africa,Aiden Markram (c),3,c Mayers b Joseph,Out,18,15,2,0,120
+T20I # 2720,West-Indies vs South-Africa-50Th-Match-Super-Eights-Group-2-1415750,South Africa,Tristan Stubbs,4,c Mayers b Chase,Out,29,27,4,0,107.4
+T20I # 2720,West-Indies vs South-Africa-50Th-Match-Super-Eights-Group-2-1415750,South Africa,Heinrich Klaasen,5,c Pooran b Joseph,Out,22,10,3,1,220
+T20I # 2720,West-Indies vs South-Africa-50Th-Match-Super-Eights-Group-2-1415750,South Africa,David Miller,6,b Chase,Out,4,14,0,0,28.57
+T20I # 2720,West-Indies vs South-Africa-50Th-Match-Super-Eights-Group-2-1415750,South Africa,Marco Jansen,7,not out,Not_Out,21,14,1,1,150
+T20I # 2720,West-Indies vs South-Africa-50Th-Match-Super-Eights-Group-2-1415750,South Africa,Keshav Maharaj,8,c Joseph b Chase,Out,2,6,0,0,33.33
+T20I # 2720,West-Indies vs South-Africa-50Th-Match-Super-Eights-Group-2-1415750,South Africa,Kagiso Rabada,9,not out,Not_Out,5,3,1,0,166.66
+T20I # 2719,England vs United-States-Of-America-49Th-Match-Super-Eights-Group-2-1415749,United States of America,Steven Taylor,1,c Ali b Curran,Out,12,13,2,0,92.3
+T20I # 2719,England vs United-States-Of-America-49Th-Match-Super-Eights-Group-2-1415749,United States of America,Andries Gous ,2,c Salt b Topley,Out,8,5,0,1,160
+T20I # 2719,England vs United-States-Of-America-49Th-Match-Super-Eights-Group-2-1415749,United States of America,Nitish Kumar,3,b Rashid,Out,30,24,1,2,125
+T20I # 2719,England vs United-States-Of-America-49Th-Match-Super-Eights-Group-2-1415749,United States of America,Aaron Jones (c),4,b Rashid,Out,10,16,2,0,62.5
+T20I # 2719,England vs United-States-Of-America-49Th-Match-Super-Eights-Group-2-1415749,United States of America,Corey Anderson,5,c Brook b Jordan,Out,29,28,0,1,103.57
+T20I # 2719,England vs United-States-Of-America-49Th-Match-Super-Eights-Group-2-1415749,United States of America,Milind Kumar,6,c Buttler b Livingstone,Out,4,6,0,0,66.66
+T20I # 2719,England vs United-States-Of-America-49Th-Match-Super-Eights-Group-2-1415749,United States of America,Harmeet Singh,7,c Jordan b Curran,Out,21,17,2,1,123.52
+T20I # 2719,England vs United-States-Of-America-49Th-Match-Super-Eights-Group-2-1415749,United States of America,Shadley van Schalkwyk,8,not out,Not_Out,0,0,0,0,-
+T20I # 2719,England vs United-States-Of-America-49Th-Match-Super-Eights-Group-2-1415749,United States of America,Ali Khan,9,b Jordan,Out,0,2,0,0,0
+T20I # 2719,England vs United-States-Of-America-49Th-Match-Super-Eights-Group-2-1415749,United States of America,Nosthush Kenjige,10,lbw b Jordan,Out,0,1,0,0,0
+T20I # 2719,England vs United-States-Of-America-49Th-Match-Super-Eights-Group-2-1415749,United States of America,Saurabh Netravalkar,11,b Jordan,Out,0,1,0,0,0
+T20I # 2719,England vs United-States-Of-America-49Th-Match-Super-Eights-Group-2-1415749,England,Phil Salt,1,not out,Not_Out,25,21,2,0,119.04
+T20I # 2719,England vs United-States-Of-America-49Th-Match-Super-Eights-Group-2-1415749,England,Jos Buttler (c),2,not out,Not_Out,83,38,6,7,218.42
+T20I # 2717,Afghanistan vs Australia-48Th-Match-Super-Eights-Group-1-1415748,Afghanistan,Rahmanullah Gurbaz ,1,c Warner b Stoinis,Out,60,49,4,4,122.44
+T20I # 2717,Afghanistan vs Australia-48Th-Match-Super-Eights-Group-1-1415748,Afghanistan,Ibrahim Zadran,2,c Marsh b Zampa,Out,51,48,6,0,106.25
+T20I # 2717,Afghanistan vs Australia-48Th-Match-Super-Eights-Group-1-1415748,Afghanistan,Azmatullah Omarzai,3,b Zampa,Out,2,3,0,0,66.66
+T20I # 2717,Afghanistan vs Australia-48Th-Match-Super-Eights-Group-1-1415748,Afghanistan,Karim Janat,4,c David b Cummins,Out,13,9,0,1,144.44
+T20I # 2717,Afghanistan vs Australia-48Th-Match-Super-Eights-Group-1-1415748,Afghanistan,Rashid Khan (c),5,c David b Cummins,Out,2,5,0,0,40
+T20I # 2717,Afghanistan vs Australia-48Th-Match-Super-Eights-Group-1-1415748,Afghanistan,Mohammad Nabi,6,not out,Not_Out,10,4,2,0,250
+T20I # 2717,Afghanistan vs Australia-48Th-Match-Super-Eights-Group-1-1415748,Afghanistan,Gulbadin Naib,7,c Maxwell b Cummins,Out,0,1,0,0,0
+T20I # 2717,Afghanistan vs Australia-48Th-Match-Super-Eights-Group-1-1415748,Afghanistan,Nangeyalia Kharote,8,not out,Not_Out,1,1,0,0,100
+T20I # 2717,Afghanistan vs Australia-48Th-Match-Super-Eights-Group-1-1415748,Australia,Travis Head,1,b Naveen-ul-Haq,Out,0,3,0,0,0
+T20I # 2717,Afghanistan vs Australia-48Th-Match-Super-Eights-Group-1-1415748,Australia,David Warner,2,c Noor Ahmad b Mohammad Nabi,Out,3,8,0,0,37.5
+T20I # 2717,Afghanistan vs Australia-48Th-Match-Super-Eights-Group-1-1415748,Australia,Mitchell Marsh (c),3,c Mohammad Nabi b Naveen-ul-Haq,Out,12,9,2,0,133.33
+T20I # 2717,Afghanistan vs Australia-48Th-Match-Super-Eights-Group-1-1415748,Australia,Glenn Maxwell,4,c Noor Ahmad b Gulbadin Naib,Out,59,41,6,3,143.9
+T20I # 2717,Afghanistan vs Australia-48Th-Match-Super-Eights-Group-1-1415748,Australia,Marcus Stoinis,5,c Rahmanullah Gurbaz b Gulbadin Naib,Out,11,17,1,0,64.7
+T20I # 2717,Afghanistan vs Australia-48Th-Match-Super-Eights-Group-1-1415748,Australia,Tim David,6,lbw b Gulbadin Naib,Out,2,4,0,0,50
+T20I # 2717,Afghanistan vs Australia-48Th-Match-Super-Eights-Group-1-1415748,Australia,Matthew Wade ,7,c Karim Janat b Rashid Khan,Out,5,7,0,0,71.42
+T20I # 2717,Afghanistan vs Australia-48Th-Match-Super-Eights-Group-1-1415748,Australia,Pat Cummins,8,b Gulbadin Naib,Out,3,9,0,0,33.33
+T20I # 2717,Afghanistan vs Australia-48Th-Match-Super-Eights-Group-1-1415748,Australia,Ashton Agar,9,c Gulbadin Naib b Naveen-ul-Haq,Out,2,5,0,0,40
+T20I # 2717,Afghanistan vs Australia-48Th-Match-Super-Eights-Group-1-1415748,Australia,Adam Zampa,10,c Mohammad Nabi b Azmatullah Omarzai,Out,9,7,1,0,128.57
+T20I # 2717,Afghanistan vs Australia-48Th-Match-Super-Eights-Group-1-1415748,Australia,Josh Hazlewood,11,not out,Not_Out,5,7,0,0,71.42
+T20I # 2716,Bangladesh vs India-47Th-Match-Super-Eights-Group-1-1415747,India,Rohit Sharma (c),1,c Jaker Ali b Shakib Al Hasan,Out,23,11,3,1,209.09
+T20I # 2716,Bangladesh vs India-47Th-Match-Super-Eights-Group-1-1415747,India,Virat Kohli,2,b Tanzim Hasan Sakib,Out,37,28,1,3,132.14
+T20I # 2716,Bangladesh vs India-47Th-Match-Super-Eights-Group-1-1415747,India,Rishabh Pant ,3,c Tanzim Hasan Sakib b Rishad Hossain,Out,36,24,4,2,150
+T20I # 2716,Bangladesh vs India-47Th-Match-Super-Eights-Group-1-1415747,India,Suryakumar Yadav,4,c Litton Das b Tanzim Hasan Sakib,Out,6,2,0,1,300
+T20I # 2716,Bangladesh vs India-47Th-Match-Super-Eights-Group-1-1415747,India,Shivam Dube,5,b Rishad Hossain,Out,34,24,0,3,141.66
+T20I # 2716,Bangladesh vs India-47Th-Match-Super-Eights-Group-1-1415747,India,Hardik Pandya,6,not out,Not_Out,50,27,4,3,185.18
+T20I # 2716,Bangladesh vs India-47Th-Match-Super-Eights-Group-1-1415747,India,Axar Patel,7,not out,Not_Out,3,5,0,0,60
+T20I # 2716,Bangladesh vs India-47Th-Match-Super-Eights-Group-1-1415747,Bangladesh,Litton Das ,1,c Yadav b Pandya,Out,13,10,1,1,130
+T20I # 2716,Bangladesh vs India-47Th-Match-Super-Eights-Group-1-1415747,Bangladesh,Tanzid Hasan,2,lbw b Kuldeep Yadav,Out,29,31,4,0,93.54
+T20I # 2716,Bangladesh vs India-47Th-Match-Super-Eights-Group-1-1415747,Bangladesh,Najmul Hossain Shanto (c),3,c Arshdeep Singh b Bumrah,Out,40,32,1,3,125
+T20I # 2716,Bangladesh vs India-47Th-Match-Super-Eights-Group-1-1415747,Bangladesh,Towhid Hridoy,4,lbw b Kuldeep Yadav,Out,4,6,0,0,66.66
+T20I # 2716,Bangladesh vs India-47Th-Match-Super-Eights-Group-1-1415747,Bangladesh,Shakib Al Hasan,5,c Sharma b Kuldeep Yadav,Out,11,7,1,1,157.14
+T20I # 2716,Bangladesh vs India-47Th-Match-Super-Eights-Group-1-1415747,Bangladesh,Mahmudullah,6,c Patel b Arshdeep Singh,Out,13,15,1,0,86.66
+T20I # 2716,Bangladesh vs India-47Th-Match-Super-Eights-Group-1-1415747,Bangladesh,Jaker Ali,7,c Kohli b Arshdeep Singh,Out,1,4,0,0,25
+T20I # 2716,Bangladesh vs India-47Th-Match-Super-Eights-Group-1-1415747,Bangladesh,Rishad Hossain,8,c Sharma b Bumrah,Out,24,10,1,3,240
+T20I # 2716,Bangladesh vs India-47Th-Match-Super-Eights-Group-1-1415747,Bangladesh,Mahedi Hasan,9,not out,Not_Out,5,4,1,0,125
+T20I # 2716,Bangladesh vs India-47Th-Match-Super-Eights-Group-1-1415747,Bangladesh,Tanzim Hasan Sakib,10,not out,Not_Out,1,1,0,0,100
+T20I # 2713,West-Indies vs United-States-Of-America-46Th-Match-Super-Eights-Group-2-1415746,United States of America,Steven Taylor,1,c Chase b Russell,Out,2,7,0,0,28.57
+T20I # 2713,West-Indies vs United-States-Of-America-46Th-Match-Super-Eights-Group-2-1415746,United States of America,Andries Gous ,2,c Hope b Joseph,Out,29,16,3,1,181.25
+T20I # 2713,West-Indies vs United-States-Of-America-46Th-Match-Super-Eights-Group-2-1415746,United States of America,Nitish Kumar,3,lbw b Motie,Out,20,19,2,0,105.26
+T20I # 2713,West-Indies vs United-States-Of-America-46Th-Match-Super-Eights-Group-2-1415746,United States of America,Aaron Jones (c),4,b Chase,Out,11,11,0,1,100
+T20I # 2713,West-Indies vs United-States-Of-America-46Th-Match-Super-Eights-Group-2-1415746,United States of America,Corey Anderson,5,lbw b Chase,Out,7,15,0,0,46.66
+T20I # 2713,West-Indies vs United-States-Of-America-46Th-Match-Super-Eights-Group-2-1415746,United States of America,Milind Kumar,6,run out (Motie/Russell),Out,19,21,1,0,90.47
+T20I # 2713,West-Indies vs United-States-Of-America-46Th-Match-Super-Eights-Group-2-1415746,United States of America,Harmeet Singh,7,c Charles b Chase,Out,0,1,0,0,0
+T20I # 2713,West-Indies vs United-States-Of-America-46Th-Match-Super-Eights-Group-2-1415746,United States of America,Shadley van Schalkwyk,8,c Charles b Russell,Out,18,17,3,0,105.88
+T20I # 2713,West-Indies vs United-States-Of-America-46Th-Match-Super-Eights-Group-2-1415746,United States of America,Nosthush Kenjige,9,c Pooran b Joseph,Out,1,3,0,0,33.33
+T20I # 2713,West-Indies vs United-States-Of-America-46Th-Match-Super-Eights-Group-2-1415746,United States of America,Ali Khan,10,not out,Not_Out,14,6,1,1,233.33
+T20I # 2713,West-Indies vs United-States-Of-America-46Th-Match-Super-Eights-Group-2-1415746,United States of America,Saurabh Netravalkar,11,c Powell b Russell,Out,0,4,0,0,0
+T20I # 2713,West-Indies vs United-States-Of-America-46Th-Match-Super-Eights-Group-2-1415746,West Indies,Shai Hope,1,not out,Not_Out,82,39,4,8,210.25
+T20I # 2713,West-Indies vs United-States-Of-America-46Th-Match-Super-Eights-Group-2-1415746,West Indies,Johnson Charles,2,c Milind Kumar b Harmeet Singh,Out,15,14,2,0,107.14
+T20I # 2713,West-Indies vs United-States-Of-America-46Th-Match-Super-Eights-Group-2-1415746,West Indies,Nicholas Pooran ,3,not out,Not_Out,27,12,1,3,225
+T20I # 2712,England vs South-Africa-45Th-Match-Super-Eights-Group-2-1415745,South Africa,Reeza Hendricks,1,c Brook b Ali,Out,19,25,1,0,76
+T20I # 2712,England vs South-Africa-45Th-Match-Super-Eights-Group-2-1415745,South Africa,Quinton de Kock ,2,c Buttler b Archer,Out,65,38,4,4,171.05
+T20I # 2712,England vs South-Africa-45Th-Match-Super-Eights-Group-2-1415745,South Africa,Heinrich Klaasen,3,run out (Buttler),Out,8,13,1,0,61.53
+T20I # 2712,England vs South-Africa-45Th-Match-Super-Eights-Group-2-1415745,South Africa,David Miller,4,c Brook b Archer,Out,43,28,4,2,153.57
+T20I # 2712,England vs South-Africa-45Th-Match-Super-Eights-Group-2-1415745,South Africa,Aiden Markram (c),5,b Rashid,Out,1,2,0,0,50
+T20I # 2712,England vs South-Africa-45Th-Match-Super-Eights-Group-2-1415745,South Africa,Tristan Stubbs,6,not out,Not_Out,12,11,1,0,109.09
+T20I # 2712,England vs South-Africa-45Th-Match-Super-Eights-Group-2-1415745,South Africa,Marco Jansen,7,c Curran b Archer,Out,0,1,0,0,0
+T20I # 2712,England vs South-Africa-45Th-Match-Super-Eights-Group-2-1415745,South Africa,Keshav Maharaj,8,not out,Not_Out,5,2,1,0,250
+T20I # 2712,England vs South-Africa-45Th-Match-Super-Eights-Group-2-1415745,England,Phil Salt,1,c Hendricks b Rabada,Out,11,8,1,1,137.5
+T20I # 2712,England vs South-Africa-45Th-Match-Super-Eights-Group-2-1415745,England,Jos Buttler (c),2,c Klaasen b Maharaj,Out,17,20,1,0,85
+T20I # 2712,England vs South-Africa-45Th-Match-Super-Eights-Group-2-1415745,England,Jonny Bairstow,3,c Nortje b Maharaj,Out,16,20,1,0,80
+T20I # 2712,England vs South-Africa-45Th-Match-Super-Eights-Group-2-1415745,England,Moeen Ali,4,c Maharaj b Baartman,Out,9,10,0,0,90
+T20I # 2712,England vs South-Africa-45Th-Match-Super-Eights-Group-2-1415745,England,Harry Brook,5,c Markram b Nortje,Out,53,37,7,0,143.24
+T20I # 2712,England vs South-Africa-45Th-Match-Super-Eights-Group-2-1415745,England,Liam Livingstone,6,c Stubbs b Rabada,Out,33,17,3,2,194.11
+T20I # 2712,England vs South-Africa-45Th-Match-Super-Eights-Group-2-1415745,England,Sam Curran,7,not out,Not_Out,10,7,1,0,142.85
+T20I # 2712,England vs South-Africa-45Th-Match-Super-Eights-Group-2-1415745,England,Jofra Archer,8,not out,Not_Out,1,2,0,0,50
+T20I # 2711,Australia vs Bangladesh-44Th-Match-Super-Eights-Group-1-1415744,Bangladesh,Tanzid Hasan,1,b Starc,Out,0,3,0,0,0
+T20I # 2711,Australia vs Bangladesh-44Th-Match-Super-Eights-Group-1-1415744,Bangladesh,Litton Das ,2,b Zampa,Out,16,25,2,0,64
+T20I # 2711,Australia vs Bangladesh-44Th-Match-Super-Eights-Group-1-1415744,Bangladesh,Najmul Hossain Shanto (c),3,lbw b Zampa,Out,41,36,5,1,113.88
+T20I # 2711,Australia vs Bangladesh-44Th-Match-Super-Eights-Group-1-1415744,Bangladesh,Rishad Hossain,4,c Zampa b Maxwell,Out,2,4,0,0,50
+T20I # 2711,Australia vs Bangladesh-44Th-Match-Super-Eights-Group-1-1415744,Bangladesh,Towhid Hridoy,5,c Hazlewood b Cummins,Out,40,28,2,2,142.85
+T20I # 2711,Australia vs Bangladesh-44Th-Match-Super-Eights-Group-1-1415744,Bangladesh,Shakib Al Hasan,6,c & b Stoinis,Out,8,10,0,0,80
+T20I # 2711,Australia vs Bangladesh-44Th-Match-Super-Eights-Group-1-1415744,Bangladesh,Mahmudullah,7,b Cummins,Out,2,3,0,0,66.66
+T20I # 2711,Australia vs Bangladesh-44Th-Match-Super-Eights-Group-1-1415744,Bangladesh,Mahedi Hasan,8,c Zampa b Cummins,Out,0,1,0,0,0
+T20I # 2711,Australia vs Bangladesh-44Th-Match-Super-Eights-Group-1-1415744,Bangladesh,Taskin Ahmed,9,not out,Not_Out,13,7,1,0,185.71
+T20I # 2711,Australia vs Bangladesh-44Th-Match-Super-Eights-Group-1-1415744,Bangladesh,Tanzim Hasan Sakib,10,not out,Not_Out,4,3,0,0,133.33
+T20I # 2711,Australia vs Bangladesh-44Th-Match-Super-Eights-Group-1-1415744,Australia,David Warner,1,not out,Not_Out,53,35,5,3,151.42
+T20I # 2711,Australia vs Bangladesh-44Th-Match-Super-Eights-Group-1-1415744,Australia,Travis Head,2,b Rishad Hossain,Out,31,21,3,2,147.61
+T20I # 2711,Australia vs Bangladesh-44Th-Match-Super-Eights-Group-1-1415744,Australia,Mitchell Marsh (c),3,lbw b Rishad Hossain,Out,1,6,0,0,16.66
+T20I # 2711,Australia vs Bangladesh-44Th-Match-Super-Eights-Group-1-1415744,Australia,Glenn Maxwell,4,not out,Not_Out,14,6,1,1,233.33
+T20I # 2710,Afghanistan vs India-43Rd-Match-Super-Eights-Group-1-1415743,India,Rohit Sharma (c),1,c Rashid Khan b Fazalhaq Farooqi,Out,8,13,1,0,61.53
+T20I # 2710,Afghanistan vs India-43Rd-Match-Super-Eights-Group-1-1415743,India,Virat Kohli,2,c Mohammad Nabi b Rashid Khan,Out,24,24,0,1,100
+T20I # 2710,Afghanistan vs India-43Rd-Match-Super-Eights-Group-1-1415743,India,Rishabh Pant ,3,lbw b Rashid Khan,Out,20,11,4,0,181.81
+T20I # 2710,Afghanistan vs India-43Rd-Match-Super-Eights-Group-1-1415743,India,Suryakumar Yadav,4,c Mohammad Nabi b Fazalhaq Farooqi,Out,53,28,5,3,189.28
+T20I # 2710,Afghanistan vs India-43Rd-Match-Super-Eights-Group-1-1415743,India,Shivam Dube,5,lbw b Rashid Khan,Out,10,7,0,1,142.85
+T20I # 2710,Afghanistan vs India-43Rd-Match-Super-Eights-Group-1-1415743,India,Hardik Pandya,6,c Azmatullah Omarzai b Naveen-ul-Haq,Out,32,24,3,2,133.33
+T20I # 2710,Afghanistan vs India-43Rd-Match-Super-Eights-Group-1-1415743,India,Ravindra Jadeja,7,c Gulbadin Naib b Fazalhaq Farooqi,Out,7,5,1,0,140
+T20I # 2710,Afghanistan vs India-43Rd-Match-Super-Eights-Group-1-1415743,India,Axar Patel,8,run out (Rahmanullah Gurbaz/Naveen-ul-Haq),Out,12,6,2,0,200
+T20I # 2710,Afghanistan vs India-43Rd-Match-Super-Eights-Group-1-1415743,India,Arshdeep Singh,9,not out,Not_Out,2,2,0,0,100
+T20I # 2710,Afghanistan vs India-43Rd-Match-Super-Eights-Group-1-1415743,Afghanistan,Rahmanullah Gurbaz ,1,c Pant b Bumrah,Out,11,8,1,1,137.5
+T20I # 2710,Afghanistan vs India-43Rd-Match-Super-Eights-Group-1-1415743,Afghanistan,Hazratullah Zazai,2,c Jadeja b Bumrah,Out,2,4,0,0,50
+T20I # 2710,Afghanistan vs India-43Rd-Match-Super-Eights-Group-1-1415743,Afghanistan,Ibrahim Zadran,3,c Sharma b Patel,Out,8,11,1,0,72.72
+T20I # 2710,Afghanistan vs India-43Rd-Match-Super-Eights-Group-1-1415743,Afghanistan,Gulbadin Naib,4,c Pant b Kuldeep Yadav,Out,17,21,1,1,80.95
+T20I # 2710,Afghanistan vs India-43Rd-Match-Super-Eights-Group-1-1415743,Afghanistan,Azmatullah Omarzai,5,c Patel b Jadeja,Out,26,20,2,1,130
+T20I # 2710,Afghanistan vs India-43Rd-Match-Super-Eights-Group-1-1415743,Afghanistan,Najibullah Zadran,6,c Arshdeep Singh b Bumrah,Out,19,17,0,2,111.76
+T20I # 2710,Afghanistan vs India-43Rd-Match-Super-Eights-Group-1-1415743,Afghanistan,Mohammad Nabi,7,c Jadeja b Kuldeep Yadav,Out,14,14,0,1,100
+T20I # 2710,Afghanistan vs India-43Rd-Match-Super-Eights-Group-1-1415743,Afghanistan,Rashid Khan (c),8,c Jadeja b Arshdeep Singh,Out,2,6,0,0,33.33
+T20I # 2710,Afghanistan vs India-43Rd-Match-Super-Eights-Group-1-1415743,Afghanistan,Noor Ahmad,9,c Sharma b Arshdeep Singh,Out,12,18,1,1,66.66
+T20I # 2710,Afghanistan vs India-43Rd-Match-Super-Eights-Group-1-1415743,Afghanistan,Naveen-ul-Haq,10,c Pant b Arshdeep Singh,Out,0,1,0,0,0
+T20I # 2710,Afghanistan vs India-43Rd-Match-Super-Eights-Group-1-1415743,Afghanistan,Fazalhaq Farooqi,11,not out,Not_Out,4,1,1,0,400
+T20I # 2709,West-Indies vs England-42Nd-Match-Super-Eights-Group-2-1415742,West Indies,Brandon King,1,retired hurt,Out,23,13,3,1,176.92
+T20I # 2709,West-Indies vs England-42Nd-Match-Super-Eights-Group-2-1415742,West Indies,Johnson Charles,2,c Brook b Ali,Out,38,34,4,1,111.76
+T20I # 2709,West-Indies vs England-42Nd-Match-Super-Eights-Group-2-1415742,West Indies,Nicholas Pooran ,3,c Buttler b Archer,Out,36,32,4,1,112.5
+T20I # 2709,West-Indies vs England-42Nd-Match-Super-Eights-Group-2-1415742,West Indies,Rovman Powell (c),4,c Wood b Livingstone,Out,36,17,0,5,211.76
+T20I # 2709,West-Indies vs England-42Nd-Match-Super-Eights-Group-2-1415742,West Indies,Andre Russell,5,c Salt b Rashid,Out,1,2,0,0,50
+T20I # 2709,West-Indies vs England-42Nd-Match-Super-Eights-Group-2-1415742,West Indies,Sherfane Rutherford,6,not out,Not_Out,28,15,1,2,186.66
+T20I # 2709,West-Indies vs England-42Nd-Match-Super-Eights-Group-2-1415742,West Indies,Romario Shepherd,7,not out,Not_Out,5,7,1,0,71.42
+T20I # 2709,West-Indies vs England-42Nd-Match-Super-Eights-Group-2-1415742,England,Phil Salt,1,not out,Not_Out,87,47,7,5,185.1
+T20I # 2709,West-Indies vs England-42Nd-Match-Super-Eights-Group-2-1415742,England,Jos Buttler (c),2,lbw b Chase,Out,25,22,2,0,113.63
+T20I # 2709,West-Indies vs England-42Nd-Match-Super-Eights-Group-2-1415742,England,Moeen Ali,3,c Charles b Russell,Out,13,10,2,0,130
+T20I # 2709,West-Indies vs England-42Nd-Match-Super-Eights-Group-2-1415742,England,Jonny Bairstow,4,not out,Not_Out,48,26,5,2,184.61
+T20I # 2708,South-Africa vs United-States-Of-America-41St-Match-Super-Eights-Group-2-1415741,South Africa,Quinton de Kock ,1,c Shayan Jahangir b Harmeet Singh,Out,74,40,7,5,185
+T20I # 2708,South-Africa vs United-States-Of-America-41St-Match-Super-Eights-Group-2-1415741,South Africa,Reeza Hendricks,2,c Anderson b Netravalkar,Out,11,11,0,1,100
+T20I # 2708,South-Africa vs United-States-Of-America-41St-Match-Super-Eights-Group-2-1415741,South Africa,Aiden Markram (c),3,c Ali Khan b Netravalkar,Out,46,32,4,1,143.75
+T20I # 2708,South-Africa vs United-States-Of-America-41St-Match-Super-Eights-Group-2-1415741,South Africa,David Miller,4,c & b Harmeet Singh,Out,0,1,0,0,0
+T20I # 2708,South-Africa vs United-States-Of-America-41St-Match-Super-Eights-Group-2-1415741,South Africa,Heinrich Klaasen,5,not out,Not_Out,36,22,0,3,163.63
+T20I # 2708,South-Africa vs United-States-Of-America-41St-Match-Super-Eights-Group-2-1415741,South Africa,Tristan Stubbs,6,not out,Not_Out,20,16,2,0,125
+T20I # 2708,South-Africa vs United-States-Of-America-41St-Match-Super-Eights-Group-2-1415741,United States of America,Steven Taylor,1,c Klaasen b Rabada,Out,24,14,4,1,171.42
+T20I # 2708,South-Africa vs United-States-Of-America-41St-Match-Super-Eights-Group-2-1415741,United States of America,Andries Gous ,2,not out,Not_Out,80,47,5,5,170.21
+T20I # 2708,South-Africa vs United-States-Of-America-41St-Match-Super-Eights-Group-2-1415741,United States of America,Nitish Kumar,3,c Stubbs b Rabada,Out,8,6,0,1,133.33
+T20I # 2708,South-Africa vs United-States-Of-America-41St-Match-Super-Eights-Group-2-1415741,United States of America,Aaron Jones (c),4,c de Kock b Maharaj,Out,0,5,0,0,0
+T20I # 2708,South-Africa vs United-States-Of-America-41St-Match-Super-Eights-Group-2-1415741,United States of America,Corey Anderson,5,b Nortje,Out,12,12,0,1,100
+T20I # 2708,South-Africa vs United-States-Of-America-41St-Match-Super-Eights-Group-2-1415741,United States of America,Shayan Jahangir,6,lbw b Shamsi,Out,3,9,0,0,33.33
+T20I # 2708,South-Africa vs United-States-Of-America-41St-Match-Super-Eights-Group-2-1415741,United States of America,Harmeet Singh,7,c Stubbs b Rabada,Out,38,22,2,3,172.72
+T20I # 2708,South-Africa vs United-States-Of-America-41St-Match-Super-Eights-Group-2-1415741,United States of America,Jasdeep Singh,8,not out,Not_Out,2,6,0,0,33.33
+T20I # 2703,West-Indies vs Afghanistan-40Th-Match-Group-C-1415740,West Indies,Brandon King,1,b Azmatullah Omarzai,Out,7,6,1,0,116.66
+T20I # 2703,West-Indies vs Afghanistan-40Th-Match-Group-C-1415740,West Indies,Johnson Charles,2,c Gulbadin Naib b Naveen-ul-Haq,Out,43,27,8,0,159.25
+T20I # 2703,West-Indies vs Afghanistan-40Th-Match-Group-C-1415740,West Indies,Nicholas Pooran ,3,run out (Azmatullah Omarzai),Out,98,53,6,8,184.9
+T20I # 2703,West-Indies vs Afghanistan-40Th-Match-Group-C-1415740,West Indies,Shai Hope,4,c Najibullah Zadran b Gulbadin Naib,Out,25,17,0,2,147.05
+T20I # 2703,West-Indies vs Afghanistan-40Th-Match-Group-C-1415740,West Indies,Rovman Powell (c),5,c sub (Nangeyalia Kharote) b Gulbadin Naib,Out,26,15,1,2,173.33
+T20I # 2703,West-Indies vs Afghanistan-40Th-Match-Group-C-1415740,West Indies,Andre Russell,6,not out,Not_Out,3,3,0,0,100
+T20I # 2703,West-Indies vs Afghanistan-40Th-Match-Group-C-1415740,West Indies,Sherfane Rutherford,7,not out,Not_Out,1,1,0,0,100
+T20I # 2703,West-Indies vs Afghanistan-40Th-Match-Group-C-1415740,Afghanistan,Rahmanullah Gurbaz ,1,c Russell b Hosein,Out,0,3,0,0,0
+T20I # 2703,West-Indies vs Afghanistan-40Th-Match-Group-C-1415740,Afghanistan,Ibrahim Zadran,2,c Charles b McCoy,Out,38,28,5,1,135.71
+T20I # 2703,West-Indies vs Afghanistan-40Th-Match-Group-C-1415740,Afghanistan,Gulbadin Naib,3,lbw b Motie,Out,7,10,1,0,70
+T20I # 2703,West-Indies vs Afghanistan-40Th-Match-Group-C-1415740,Afghanistan,Azmatullah Omarzai,4,c Powell b Hosein,Out,23,19,1,1,121.05
+T20I # 2703,West-Indies vs Afghanistan-40Th-Match-Group-C-1415740,Afghanistan,Najibullah Zadran,5,c Charles b McCoy,Out,0,2,0,0,0
+T20I # 2703,West-Indies vs Afghanistan-40Th-Match-Group-C-1415740,Afghanistan,Mohammad Nabi,6,b McCoy,Out,1,4,0,0,25
+T20I # 2703,West-Indies vs Afghanistan-40Th-Match-Group-C-1415740,Afghanistan,Karim Janat,7,run out (King/Hosein),Out,14,9,0,1,155.55
+T20I # 2703,West-Indies vs Afghanistan-40Th-Match-Group-C-1415740,Afghanistan,Rashid Khan (c),8,c Powell b Russell,Out,18,11,2,1,163.63
+T20I # 2703,West-Indies vs Afghanistan-40Th-Match-Group-C-1415740,Afghanistan,Noor Ahmad,9,c Rutherford b Motie,Out,2,4,0,0,50
+T20I # 2703,West-Indies vs Afghanistan-40Th-Match-Group-C-1415740,Afghanistan,Naveen-ul-Haq,10,c Pooran b Joseph,Out,4,6,1,0,66.66
+T20I # 2703,West-Indies vs Afghanistan-40Th-Match-Group-C-1415740,Afghanistan,Fazalhaq Farooqi,11,not out,Not_Out,0,2,0,0,0
+T20I # 2702,New-Zealand vs Papua-New-Guinea-39Th-Match-Group-C-1415739,Papua New Guinea,Tony Ura,1,c Phillips b Southee,Out,1,2,0,0,50
+T20I # 2702,New-Zealand vs Papua-New-Guinea-39Th-Match-Group-C-1415739,Papua New Guinea,Assad Vala (c),2,c Mitchell b Ferguson,Out,6,16,1,0,37.5
+T20I # 2702,New-Zealand vs Papua-New-Guinea-39Th-Match-Group-C-1415739,Papua New Guinea,Charles Amini,3,lbw b Ferguson,Out,17,25,2,0,68
+T20I # 2702,New-Zealand vs Papua-New-Guinea-39Th-Match-Group-C-1415739,Papua New Guinea,Sese Bau,4,c Allen b Santner,Out,12,27,1,0,44.44
+T20I # 2702,New-Zealand vs Papua-New-Guinea-39Th-Match-Group-C-1415739,Papua New Guinea,Hiri Hiri,5,b Boult,Out,7,11,1,0,63.63
+T20I # 2702,New-Zealand vs Papua-New-Guinea-39Th-Match-Group-C-1415739,Papua New Guinea,Chad Soper,6,b Ferguson,Out,1,6,0,0,16.66
+T20I # 2702,New-Zealand vs Papua-New-Guinea-39Th-Match-Group-C-1415739,Papua New Guinea,Kiplin Doriga ,7,b Southee,Out,5,7,1,0,71.42
+T20I # 2702,New-Zealand vs Papua-New-Guinea-39Th-Match-Group-C-1415739,Papua New Guinea,Norman Vanua,8,c Mitchell b Boult,Out,14,13,1,1,107.69
+T20I # 2702,New-Zealand vs Papua-New-Guinea-39Th-Match-Group-C-1415739,Papua New Guinea,Alei Nao,9,c Mitchell b Sodhi,Out,3,7,0,0,42.85
+T20I # 2702,New-Zealand vs Papua-New-Guinea-39Th-Match-Group-C-1415739,Papua New Guinea,Kabua Morea,10,st Conway b Sodhi,Out,0,3,0,0,0
+T20I # 2702,New-Zealand vs Papua-New-Guinea-39Th-Match-Group-C-1415739,Papua New Guinea,Semo Kamea,11,not out,Not_Out,1,1,0,0,100
+T20I # 2702,New-Zealand vs Papua-New-Guinea-39Th-Match-Group-C-1415739,New Zealand,Finn Allen,1,c Doriga b Morea,Out,0,2,0,0,0
+T20I # 2702,New-Zealand vs Papua-New-Guinea-39Th-Match-Group-C-1415739,New Zealand,Devon Conway ,2,lbw b Kamea,Out,35,32,2,3,109.37
+T20I # 2702,New-Zealand vs Papua-New-Guinea-39Th-Match-Group-C-1415739,New Zealand,Rachin Ravindra,3,c Kamea b Morea,Out,6,11,0,0,54.54
+T20I # 2702,New-Zealand vs Papua-New-Guinea-39Th-Match-Group-C-1415739,New Zealand,Kane Williamson (c),4,not out,Not_Out,18,17,2,0,105.88
+T20I # 2702,New-Zealand vs Papua-New-Guinea-39Th-Match-Group-C-1415739,New Zealand,Daryl Mitchell,5,not out,Not_Out,19,12,3,0,158.33
+T20I # 2699,Netherlands vs Sri-Lanka-38Th-Match-Group-D-1415738,Sri Lanka,Pathum Nissanka,1,c Engelbrecht b Kingma,Out,0,2,0,0,0
+T20I # 2699,Netherlands vs Sri-Lanka-38Th-Match-Group-D-1415738,Sri Lanka,Kusal Mendis ,2,c Engelbrecht b Dutt,Out,46,29,5,0,158.62
+T20I # 2699,Netherlands vs Sri-Lanka-38Th-Match-Group-D-1415738,Sri Lanka,Kamindu Mendis,3,c van Beek b van Meekeren,Out,17,20,1,1,85
+T20I # 2699,Netherlands vs Sri-Lanka-38Th-Match-Group-D-1415738,Sri Lanka,Dhananjaya de Silva,4,c de Leede b Pringle,Out,34,26,3,1,130.76
+T20I # 2699,Netherlands vs Sri-Lanka-38Th-Match-Group-D-1415738,Sri Lanka,Charith Asalanka,5,c de Leede b van Beek,Out,46,21,1,5,219.04
+T20I # 2699,Netherlands vs Sri-Lanka-38Th-Match-Group-D-1415738,Sri Lanka,Angelo Mathews,6,not out,Not_Out,30,15,1,2,200
+T20I # 2699,Netherlands vs Sri-Lanka-38Th-Match-Group-D-1415738,Sri Lanka,Dasun Shanaka,7,c Edwards b van Beek,Out,0,1,0,0,0
+T20I # 2699,Netherlands vs Sri-Lanka-38Th-Match-Group-D-1415738,Sri Lanka,Wanindu Hasaranga (c),8,not out,Not_Out,20,6,1,2,333.33
+T20I # 2699,Netherlands vs Sri-Lanka-38Th-Match-Group-D-1415738,Netherlands,Michael Levitt,1,st BKG Mendis b Theekshana,Out,31,23,2,3,134.78
+T20I # 2699,Netherlands vs Sri-Lanka-38Th-Match-Group-D-1415738,Netherlands,Max O'Dowd,2,c PHKD Mendis b Thushara,Out,11,8,0,1,137.5
+T20I # 2699,Netherlands vs Sri-Lanka-38Th-Match-Group-D-1415738,Netherlands,Vikramjit Singh,3,c PHKD Mendis b Shanaka,Out,7,10,0,0,70
+T20I # 2699,Netherlands vs Sri-Lanka-38Th-Match-Group-D-1415738,Netherlands,Sybrand Engelbrecht,4,c Asalanka b Pathirana,Out,11,9,0,1,122.22
+T20I # 2699,Netherlands vs Sri-Lanka-38Th-Match-Group-D-1415738,Netherlands,Scott Edwards (c),5,c Theekshana b Thushara,Out,31,24,2,1,129.16
+T20I # 2699,Netherlands vs Sri-Lanka-38Th-Match-Group-D-1415738,Netherlands,Bas de Leede,6,c Asalanka b Hasaranga,Out,3,5,0,0,60
+T20I # 2699,Netherlands vs Sri-Lanka-38Th-Match-Group-D-1415738,Netherlands,Logan van Beek,7,run out (BKG Mendis),Out,0,1,0,0,0
+T20I # 2699,Netherlands vs Sri-Lanka-38Th-Match-Group-D-1415738,Netherlands,Tim Pringle,8,st BKG Mendis b Hasaranga,Out,2,4,0,0,50
+T20I # 2699,Netherlands vs Sri-Lanka-38Th-Match-Group-D-1415738,Netherlands,Aryan Dutt,9,b Pathirana,Out,10,8,1,0,125
+T20I # 2699,Netherlands vs Sri-Lanka-38Th-Match-Group-D-1415738,Netherlands,Paul van Meekeren,10,lbw b Thushara,Out,3,8,0,0,37.5
+T20I # 2699,Netherlands vs Sri-Lanka-38Th-Match-Group-D-1415738,Netherlands,Vivian Kingma,11,not out,Not_Out,1,1,0,0,100
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Bangladesh,Tanzid Hasan,1,c & b Sompal Kami,Out,0,1,0,0,0
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Bangladesh,Litton Das ,2,c Aasif Sheikh b Sompal Kami,Out,10,12,1,0,83.33
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Bangladesh,Najmul Hossain Shanto (c),3,b Airee,Out,4,5,0,0,80
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Bangladesh,Shakib Al Hasan,4,lbw b Paudel,Out,17,22,2,0,77.27
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Bangladesh,Towhid Hridoy,5,c Lamichhane b Paudel,Out,9,7,2,0,128.57
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Bangladesh,Mahmudullah,6,run out (Gulsan Jha/Lamichhane),Out,13,13,2,0,100
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Bangladesh,Jaker Ali,7,b Lamichhane,Out,12,26,0,0,46.15
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Bangladesh,Tanzim Hasan Sakib,8,b Lamichhane,Out,3,5,0,0,60
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Bangladesh,Rishad Hossain,9,c Sah b Airee,Out,13,7,1,1,185.71
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Bangladesh,Taskin Ahmed,10,not out,Not_Out,12,15,2,0,80
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Bangladesh,Mustafizur Rahman,11,run out (Paudel/Airee),Out,3,4,0,0,75
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Nepal,Kushal Bhurtel,1,b Tanzim Hasan Sakib,Out,4,8,1,0,50
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Nepal,Aasif Sheikh ,2,c Shakib Al Hasan b Mustafizur Rahman,Out,17,14,4,0,121.42
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Nepal,Anil Sah,3,c Najmul Hossain Shanto b Tanzim Hasan Sakib,Out,0,2,0,0,0
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Nepal,Rohit Paudel (c),4,c Rishad Hossain b Tanzim Hasan Sakib,Out,1,6,0,0,16.66
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Nepal,Sundeep Jora,5,c Rishad Hossain b Tanzim Hasan Sakib,Out,1,8,0,0,12.5
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Nepal,Kushal Malla,6,c Najmul Hossain Shanto b Mustafizur Rahman,Out,27,40,1,1,67.5
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Nepal,Dipendra Singh Airee,7,c Litton Das b Mustafizur Rahman,Out,25,31,2,1,80.64
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Nepal,Gulsan Jha,8,c Towhid Hridoy b Taskin Ahmed,Out,0,4,0,0,0
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Nepal,Sompal Kami,9,st Litton Das b Shakib Al Hasan,Out,0,2,0,0,0
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Nepal,Sandeep Lamichhane,10,not out,Not_Out,0,0,0,0,-
+T20I # 2698,Bangladesh vs Nepal-37Th-Match-Group-D-1415737,Nepal,Abinash Bohara,11,lbw b Shakib Al Hasan,Out,0,1,0,0,0
+T20I # 2697,Ireland vs Pakistan-36Th-Match-Group-A-1415736,Ireland,Andy Balbirnie,1,b Shaheen Shah Afridi,Out,0,3,0,0,0
+T20I # 2697,Ireland vs Pakistan-36Th-Match-Group-A-1415736,Ireland,Paul Stirling (c),2,c Mohammad Rizwan b Mohammad Amir,Out,1,2,0,0,50
+T20I # 2697,Ireland vs Pakistan-36Th-Match-Group-A-1415736,Ireland,Lorcan Tucker ,3,c Mohammad Rizwan b Shaheen Shah Afridi,Out,2,2,0,0,100
+T20I # 2697,Ireland vs Pakistan-36Th-Match-Group-A-1415736,Ireland,Harry Tector,4,lbw b Shaheen Shah Afridi,Out,0,6,0,0,0
+T20I # 2697,Ireland vs Pakistan-36Th-Match-Group-A-1415736,Ireland,Curtis Campher,5,c Saim Ayub b Haris Rauf,Out,7,14,1,0,50
+T20I # 2697,Ireland vs Pakistan-36Th-Match-Group-A-1415736,Ireland,George Dockrell,6,c & b Mohammad Amir,Out,11,10,2,0,110
+T20I # 2697,Ireland vs Pakistan-36Th-Match-Group-A-1415736,Ireland,Gareth Delany,7,c Shadab Khan b Imad Wasim,Out,31,19,1,3,163.15
+T20I # 2697,Ireland vs Pakistan-36Th-Match-Group-A-1415736,Ireland,Mark Adair,8,c Shaheen Shah Afridi b Imad Wasim,Out,15,19,2,0,78.94
+T20I # 2697,Ireland vs Pakistan-36Th-Match-Group-A-1415736,Ireland,Barry McCarthy,9,b Imad Wasim,Out,2,7,0,0,28.57
+T20I # 2697,Ireland vs Pakistan-36Th-Match-Group-A-1415736,Ireland,Josh Little,10,not out,Not_Out,22,18,2,1,122.22
+T20I # 2697,Ireland vs Pakistan-36Th-Match-Group-A-1415736,Ireland,Ben White,11,not out,Not_Out,5,20,0,0,25
+T20I # 2697,Ireland vs Pakistan-36Th-Match-Group-A-1415736,Pakistan,Mohammad Rizwan ,1,c Adair b McCarthy,Out,17,16,2,0,106.25
+T20I # 2697,Ireland vs Pakistan-36Th-Match-Group-A-1415736,Pakistan,Saim Ayub,2,c Tucker b Adair,Out,17,17,2,1,100
+T20I # 2697,Ireland vs Pakistan-36Th-Match-Group-A-1415736,Pakistan,Babar Azam (c),3,not out,Not_Out,32,34,2,0,94.11
+T20I # 2697,Ireland vs Pakistan-36Th-Match-Group-A-1415736,Pakistan,Fakhar Zaman,4,c sub (GR Adair) b Campher,Out,5,9,0,0,55.55
+T20I # 2697,Ireland vs Pakistan-36Th-Match-Group-A-1415736,Pakistan,Usman Khan,5,c Tector b McCarthy,Out,2,3,0,0,66.66
+T20I # 2697,Ireland vs Pakistan-36Th-Match-Group-A-1415736,Pakistan,Shadab Khan,6,c Tucker b McCarthy,Out,0,2,0,0,0
+T20I # 2697,Ireland vs Pakistan-36Th-Match-Group-A-1415736,Pakistan,Imad Wasim,7,c Tector b Campher,Out,4,6,1,0,66.66
+T20I # 2697,Ireland vs Pakistan-36Th-Match-Group-A-1415736,Pakistan,Abbas Afridi,8,c sub (GR Adair) b White,Out,17,21,1,1,80.95
+T20I # 2697,Ireland vs Pakistan-36Th-Match-Group-A-1415736,Pakistan,Shaheen Shah Afridi,9,not out,Not_Out,13,5,0,2,260
+T20I # 2689,Australia vs Scotland-35Th-Match-Group-B-1415735,Scotland,George Munsey,1,c Ellis b Maxwell,Out,35,23,2,3,152.17
+T20I # 2689,Australia vs Scotland-35Th-Match-Group-B-1415735,Scotland,Michael Jones,2,b Agar,Out,2,3,0,0,66.66
+T20I # 2689,Australia vs Scotland-35Th-Match-Group-B-1415735,Scotland,Brandon McMullen,3,c Starc b Zampa,Out,60,34,2,6,176.47
+T20I # 2689,Australia vs Scotland-35Th-Match-Group-B-1415735,Scotland,Richie Berrington (c),4,not out,Not_Out,42,31,1,2,135.48
+T20I # 2689,Australia vs Scotland-35Th-Match-Group-B-1415735,Scotland,Matthew Cross ,5,c Agar b Maxwell,Out,18,11,1,1,163.63
+T20I # 2689,Australia vs Scotland-35Th-Match-Group-B-1415735,Scotland,Michael Leask,6,c Starc b Ellis,Out,5,8,0,0,62.5
+T20I # 2689,Australia vs Scotland-35Th-Match-Group-B-1415735,Scotland,Chris Greaves,7,not out,Not_Out,9,10,0,0,90
+T20I # 2689,Australia vs Scotland-35Th-Match-Group-B-1415735,Australia,Travis Head,1,c Jones b Sharif,Out,68,49,5,4,138.77
+T20I # 2689,Australia vs Scotland-35Th-Match-Group-B-1415735,Australia,David Warner,2,c Berrington b Wheal,Out,1,4,0,0,25
+T20I # 2689,Australia vs Scotland-35Th-Match-Group-B-1415735,Australia,Mitchell Marsh (c),3,c sub (C Tear) b Sharif,Out,8,9,1,0,88.88
+T20I # 2689,Australia vs Scotland-35Th-Match-Group-B-1415735,Australia,Glenn Maxwell,4,b Watt,Out,11,8,0,1,137.5
+T20I # 2689,Australia vs Scotland-35Th-Match-Group-B-1415735,Australia,Marcus Stoinis,5,b Watt,Out,59,29,9,2,203.44
+T20I # 2689,Australia vs Scotland-35Th-Match-Group-B-1415735,Australia,Tim David,6,not out,Not_Out,24,14,2,1,171.42
+T20I # 2689,Australia vs Scotland-35Th-Match-Group-B-1415735,Australia,Matthew Wade ,7,not out,Not_Out,4,5,0,0,80
+T20I # 2688,England vs Namibia-34Th-Match-Group-B-1415734,England,Phil Salt,1,c Green b Wiese,Out,11,8,2,0,137.5
+T20I # 2688,England vs Namibia-34Th-Match-Group-B-1415734,England,Jos Buttler (c),2,b Trumpelmann,Out,0,4,0,0,0
+T20I # 2688,England vs Namibia-34Th-Match-Group-B-1415734,England,Jonny Bairstow,3,c Green b Scholtz,Out,31,18,3,2,172.22
+T20I # 2688,England vs Namibia-34Th-Match-Group-B-1415734,England,Harry Brook,4,not out,Not_Out,47,20,4,2,235
+T20I # 2688,England vs Namibia-34Th-Match-Group-B-1415734,England,Moeen Ali,5,c Davin b Trumpelmann,Out,16,6,0,2,266.66
+T20I # 2688,England vs Namibia-34Th-Match-Group-B-1415734,England,Liam Livingstone,6,run out (Trumpelmann/Green),Out,13,4,0,2,325
+T20I # 2688,England vs Namibia-34Th-Match-Group-B-1415734,Namibia,Michael van Lingen,1,c Brook b Jordan,Out,33,29,1,3,113.79
+T20I # 2688,England vs Namibia-34Th-Match-Group-B-1415734,Namibia,Nikolaas Davin,2,retired out,Out,18,16,1,1,112.5
+T20I # 2688,England vs Namibia-34Th-Match-Group-B-1415734,Namibia,David Wiese,3,c Brook b Archer,Out,27,12,2,2,225
+T20I # 2688,England vs Namibia-34Th-Match-Group-B-1415734,Namibia,Gerhard Erasmus (c),4,not out,Not_Out,1,3,0,0,33.33
+T20I # 2688,England vs Namibia-34Th-Match-Group-B-1415734,Namibia,JJ Smit,5,not out,Not_Out,0,1,0,0,0
+T20I # 2682,New-Zealand vs Uganda-32Nd-Match-Group-C-1415732,Uganda,Ronak Patel,1,c Conway b Santner,Out,2,20,0,0,10
+T20I # 2682,New-Zealand vs Uganda-32Nd-Match-Group-C-1415732,Uganda,Simon Ssesazi ,2,lbw b Boult,Out,0,1,0,0,0
+T20I # 2682,New-Zealand vs Uganda-32Nd-Match-Group-C-1415732,Uganda,Robinson Obuya,3,b Boult,Out,0,1,0,0,0
+T20I # 2682,New-Zealand vs Uganda-32Nd-Match-Group-C-1415732,Uganda,Alpesh Ramjani,4,lbw b Southee,Out,0,6,0,0,0
+T20I # 2682,New-Zealand vs Uganda-32Nd-Match-Group-C-1415732,Uganda,Kenneth Waiswa,5,b Ferguson,Out,11,18,2,0,61.11
+T20I # 2682,New-Zealand vs Uganda-32Nd-Match-Group-C-1415732,Uganda,Riazat Ali Shah,6,c Conway b Ravindra,Out,2,13,0,0,15.38
+T20I # 2682,New-Zealand vs Uganda-32Nd-Match-Group-C-1415732,Uganda,Dinesh Nakrani,7,c Phillips b Ravindra,Out,4,13,0,0,30.76
+T20I # 2682,New-Zealand vs Uganda-32Nd-Match-Group-C-1415732,Uganda,Brian Masaba (c),8,not out,Not_Out,3,20,0,0,15
+T20I # 2682,New-Zealand vs Uganda-32Nd-Match-Group-C-1415732,Uganda,Fred Achelam,9,lbw b Southee,Out,9,13,1,0,69.23
+T20I # 2682,New-Zealand vs Uganda-32Nd-Match-Group-C-1415732,Uganda,Juma Miyagi,10,lbw b Southee,Out,0,1,0,0,0
+T20I # 2682,New-Zealand vs Uganda-32Nd-Match-Group-C-1415732,Uganda,Cosmas Kyewuta,11,c Mitchell b Santner,Out,1,6,0,0,16.66
+T20I # 2682,New-Zealand vs Uganda-32Nd-Match-Group-C-1415732,New Zealand,Finn Allen,1,c Achelam b Riazat Ali Shah,Out,9,17,1,0,52.94
+T20I # 2682,New-Zealand vs Uganda-32Nd-Match-Group-C-1415732,New Zealand,Devon Conway ,2,not out,Not_Out,22,15,4,0,146.66
+T20I # 2682,New-Zealand vs Uganda-32Nd-Match-Group-C-1415732,New Zealand,Rachin Ravindra,3,not out,Not_Out,1,1,0,0,100
+T20I # 2681,Nepal vs South-Africa-31St-Match-Group-D-1415731,South Africa,Reeza Hendricks,1,c & b Airee,Out,43,49,5,1,87.75
+T20I # 2681,Nepal vs South-Africa-31St-Match-Group-D-1415731,South Africa,Quinton de Kock ,2,c & b Airee,Out,10,11,1,0,90.9
+T20I # 2681,Nepal vs South-Africa-31St-Match-Group-D-1415731,South Africa,Aiden Markram (c),3,b Bhurtel,Out,15,22,2,0,68.18
+T20I # 2681,Nepal vs South-Africa-31St-Match-Group-D-1415731,South Africa,Heinrich Klaasen,4,c Karan KC b Bhurtel,Out,3,5,0,0,60
+T20I # 2681,Nepal vs South-Africa-31St-Match-Group-D-1415731,South Africa,David Miller,5,c Lamichhane b Airee,Out,7,10,0,0,70
+T20I # 2681,Nepal vs South-Africa-31St-Match-Group-D-1415731,South Africa,Tristan Stubbs,6,not out,Not_Out,27,18,2,1,150
+T20I # 2681,Nepal vs South-Africa-31St-Match-Group-D-1415731,South Africa,Marco Jansen,7,c Sah b Bhurtel,Out,1,4,0,0,25
+T20I # 2681,Nepal vs South-Africa-31St-Match-Group-D-1415731,South Africa,Kagiso Rabada,8,st Aasif Sheikh b Bhurtel,Out,0,1,0,0,0
+T20I # 2681,Nepal vs South-Africa-31St-Match-Group-D-1415731,Nepal,Kushal Bhurtel,1,b Shamsi,Out,13,21,1,1,61.9
+T20I # 2681,Nepal vs South-Africa-31St-Match-Group-D-1415731,Nepal,Aasif Sheikh ,2,b Shamsi,Out,42,49,4,1,85.71
+T20I # 2681,Nepal vs South-Africa-31St-Match-Group-D-1415731,Nepal,Rohit Paudel (c),3,b Shamsi,Out,0,2,0,0,0
+T20I # 2681,Nepal vs South-Africa-31St-Match-Group-D-1415731,Nepal,Anil Sah,4,c Jansen b Markram,Out,27,24,3,1,112.5
+T20I # 2681,Nepal vs South-Africa-31St-Match-Group-D-1415731,Nepal,Dipendra Singh Airee,5,c de Kock b Shamsi,Out,6,11,0,0,54.54
+T20I # 2681,Nepal vs South-Africa-31St-Match-Group-D-1415731,Nepal,Kushal Malla,6,b Nortje,Out,1,3,0,0,33.33
+T20I # 2681,Nepal vs South-Africa-31St-Match-Group-D-1415731,Nepal,Gulsan Jha,7,run out (de Kock/Klaasen),Out,6,6,1,0,100
+T20I # 2681,Nepal vs South-Africa-31St-Match-Group-D-1415731,Nepal,Sompal Kami,8,not out,Not_Out,8,4,0,1,200
+T20I # 2679,Afghanistan vs Papua-New-Guinea-29Th-Match-Group-C-1415729,Papua New Guinea,Tony Ura,1,b Naveen-ul-Haq,Out,11,18,1,0,61.11
+T20I # 2679,Afghanistan vs Papua-New-Guinea-29Th-Match-Group-C-1415729,Papua New Guinea,Assad Vala (c),2,run out (Fazalhaq Farooqi/Rahmanullah Gurbaz),Out,3,2,0,0,150
+T20I # 2679,Afghanistan vs Papua-New-Guinea-29Th-Match-Group-C-1415729,Papua New Guinea,Lega Siaka,3,c Rahmanullah Gurbaz b Fazalhaq Farooqi,Out,0,1,0,0,0
+T20I # 2679,Afghanistan vs Papua-New-Guinea-29Th-Match-Group-C-1415729,Papua New Guinea,Sese Bau,4,c Rahmanullah Gurbaz b Fazalhaq Farooqi,Out,0,1,0,0,0
+T20I # 2679,Afghanistan vs Papua-New-Guinea-29Th-Match-Group-C-1415729,Papua New Guinea,Hiri Hiri,5,b Naveen-ul-Haq,Out,1,3,0,0,33.33
+T20I # 2679,Afghanistan vs Papua-New-Guinea-29Th-Match-Group-C-1415729,Papua New Guinea,Chad Soper,6,run out (Noor Ahmad/Rashid Khan),Out,9,26,0,0,34.61
+T20I # 2679,Afghanistan vs Papua-New-Guinea-29Th-Match-Group-C-1415729,Papua New Guinea,Kiplin Doriga ,7,lbw b Noor Ahmad,Out,27,32,2,0,84.37
+T20I # 2679,Afghanistan vs Papua-New-Guinea-29Th-Match-Group-C-1415729,Papua New Guinea,Norman Vanua,8,run out (Rashid Khan),Out,0,7,0,0,0
+T20I # 2679,Afghanistan vs Papua-New-Guinea-29Th-Match-Group-C-1415729,Papua New Guinea,Alei Nao,9,c Rashid Khan b Fazalhaq Farooqi,Out,13,19,2,0,68.42
+T20I # 2679,Afghanistan vs Papua-New-Guinea-29Th-Match-Group-C-1415729,Papua New Guinea,John Kariko,10,not out,Not_Out,4,7,1,0,57.14
+T20I # 2679,Afghanistan vs Papua-New-Guinea-29Th-Match-Group-C-1415729,Papua New Guinea,Semo Kamea,11,run out (Rahmanullah Gurbaz),Out,2,3,0,0,66.66
+T20I # 2679,Afghanistan vs Papua-New-Guinea-29Th-Match-Group-C-1415729,Afghanistan,Rahmanullah Gurbaz ,1,b Nao,Out,11,7,1,1,157.14
+T20I # 2679,Afghanistan vs Papua-New-Guinea-29Th-Match-Group-C-1415729,Afghanistan,Ibrahim Zadran,2,b Kamea,Out,0,7,0,0,0
+T20I # 2679,Afghanistan vs Papua-New-Guinea-29Th-Match-Group-C-1415729,Afghanistan,Gulbadin Naib,3,not out,Not_Out,49,36,4,2,136.11
+T20I # 2679,Afghanistan vs Papua-New-Guinea-29Th-Match-Group-C-1415729,Afghanistan,Azmatullah Omarzai,4,b Vanua,Out,13,18,1,0,72.22
+T20I # 2679,Afghanistan vs Papua-New-Guinea-29Th-Match-Group-C-1415729,Afghanistan,Mohammad Nabi,5,not out,Not_Out,16,23,1,0,69.56
+T20I # 2678,England vs Oman-28Th-Match-Group-B-1415728,Oman,Pratik Athavale ,1,c Salt b Archer,Out,5,3,1,0,166.66
+T20I # 2678,England vs Oman-28Th-Match-Group-B-1415728,Oman,Kashyap Prajapati,2,c Livingstone b Wood,Out,9,16,0,1,56.25
+T20I # 2678,England vs Oman-28Th-Match-Group-B-1415728,Oman,Aqib Ilyas (c),3,c Jacks b Archer,Out,8,10,1,0,80
+T20I # 2678,England vs Oman-28Th-Match-Group-B-1415728,Oman,Zeeshan Maqsood,4,c & b Wood,Out,1,5,0,0,20
+T20I # 2678,England vs Oman-28Th-Match-Group-B-1415728,Oman,Khalid Kail,5,st Buttler b Rashid,Out,1,3,0,0,33.33
+T20I # 2678,England vs Oman-28Th-Match-Group-B-1415728,Oman,Ayaan Khan,6,b Wood,Out,1,5,0,0,20
+T20I # 2678,England vs Oman-28Th-Match-Group-B-1415728,Oman,Shoaib Khan,7,c Buttler b Archer,Out,11,23,1,0,47.82
+T20I # 2678,England vs Oman-28Th-Match-Group-B-1415728,Oman,Mehran Khan,8,c Ali b Rashid,Out,0,2,0,0,0
+T20I # 2678,England vs Oman-28Th-Match-Group-B-1415728,Oman,Fayyaz Butt,9,b Rashid,Out,2,7,0,0,28.57
+T20I # 2678,England vs Oman-28Th-Match-Group-B-1415728,Oman,Kaleemullah,10,b Rashid,Out,5,5,1,0,100
+T20I # 2678,England vs Oman-28Th-Match-Group-B-1415728,Oman,Bilal Khan,11,not out,Not_Out,0,1,0,0,0
+T20I # 2678,England vs Oman-28Th-Match-Group-B-1415728,England,Phil Salt,1,b Bilal Khan,Out,12,3,0,2,400
+T20I # 2678,England vs Oman-28Th-Match-Group-B-1415728,England,Jos Buttler (c),2,not out,Not_Out,24,8,4,1,300
+T20I # 2678,England vs Oman-28Th-Match-Group-B-1415728,England,Will Jacks,3,c Prajapati b Kaleemullah,Out,5,7,1,0,71.42
+T20I # 2678,England vs Oman-28Th-Match-Group-B-1415728,England,Jonny Bairstow,4,not out,Not_Out,8,2,2,0,400
+T20I # 2677,Bangladesh vs Netherlands-27Th-Match-Group-D-1415727,Bangladesh,Tanzid Hasan,1,c de Leede b van Meekeren,Out,35,26,5,1,134.61
+T20I # 2677,Bangladesh vs Netherlands-27Th-Match-Group-D-1415727,Bangladesh,Najmul Hossain Shanto (c),2,c Vikramjit Singh b Dutt,Out,1,3,0,0,33.33
+T20I # 2677,Bangladesh vs Netherlands-27Th-Match-Group-D-1415727,Bangladesh,Litton Das ,3,c Engelbrecht b Dutt,Out,1,2,0,0,50
+T20I # 2677,Bangladesh vs Netherlands-27Th-Match-Group-D-1415727,Bangladesh,Shakib Al Hasan,4,not out,Not_Out,64,46,9,0,139.13
+T20I # 2677,Bangladesh vs Netherlands-27Th-Match-Group-D-1415727,Bangladesh,Towhid Hridoy,5,b Pringle,Out,9,15,0,0,60
+T20I # 2677,Bangladesh vs Netherlands-27Th-Match-Group-D-1415727,Bangladesh,Mahmudullah,6,c Engelbrecht b van Meekeren,Out,25,21,2,2,119.04
+T20I # 2677,Bangladesh vs Netherlands-27Th-Match-Group-D-1415727,Bangladesh,Jaker Ali,7,not out,Not_Out,14,7,3,0,200
+T20I # 2677,Bangladesh vs Netherlands-27Th-Match-Group-D-1415727,Netherlands,Michael Levitt,1,c Towhid Hridoy b Taskin Ahmed,Out,18,16,2,1,112.5
+T20I # 2677,Bangladesh vs Netherlands-27Th-Match-Group-D-1415727,Netherlands,Max O'Dowd,2,c & b Tanzim Hasan Sakib,Out,12,16,3,0,75
+T20I # 2677,Bangladesh vs Netherlands-27Th-Match-Group-D-1415727,Netherlands,Vikramjit Singh,3,st Litton Das b Mahmudullah,Out,26,16,0,3,162.5
+T20I # 2677,Bangladesh vs Netherlands-27Th-Match-Group-D-1415727,Netherlands,Sybrand Engelbrecht,4,c Tanzim Hasan Sakib b Rishad Hossain,Out,33,22,3,1,150
+T20I # 2677,Bangladesh vs Netherlands-27Th-Match-Group-D-1415727,Netherlands,Scott Edwards (c),5,c Jaker Ali b Mustafizur Rahman,Out,25,23,3,0,108.69
+T20I # 2677,Bangladesh vs Netherlands-27Th-Match-Group-D-1415727,Netherlands,Bas de Leede,6,st Litton Das b Rishad Hossain,Out,0,2,0,0,0
+T20I # 2677,Bangladesh vs Netherlands-27Th-Match-Group-D-1415727,Netherlands,Logan van Beek,7,c & b Rishad Hossain,Out,2,3,0,0,66.66
+T20I # 2677,Bangladesh vs Netherlands-27Th-Match-Group-D-1415727,Netherlands,Tim Pringle,8,b Taskin Ahmed,Out,1,10,0,0,10
+T20I # 2677,Bangladesh vs Netherlands-27Th-Match-Group-D-1415727,Netherlands,Aryan Dutt,9,not out,Not_Out,15,12,1,1,125
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,West Indies,Brandon King,1,c Conway b Neesham,Out,9,12,0,1,75
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,West Indies,Johnson Charles,2,b Boult,Out,0,5,0,0,0
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,West Indies,Nicholas Pooran ,3,c Conway b Southee,Out,17,12,3,0,141.66
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,West Indies,Roston Chase,4,c Ravindra b Ferguson,Out,0,3,0,0,0
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,West Indies,Rovman Powell (c),5,c Conway b Southee,Out,1,5,0,0,20
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,West Indies,Sherfane Rutherford,6,not out,Not_Out,68,39,2,6,174.35
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,West Indies,Akeal Hosein,7,c Neesham b Santner,Out,15,17,0,1,88.23
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,West Indies,Andre Russell,8,c Ferguson b Boult,Out,14,7,2,1,200
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,West Indies,Romario Shepherd,9,lbw b Ferguson,Out,13,13,0,1,100
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,West Indies,Alzarri Joseph,10,b Boult,Out,6,6,1,0,100
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,West Indies,Gudakesh Motie,11,not out,Not_Out,0,1,0,0,0
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,New Zealand,Devon Conway ,1,c Chase b Hosein,Out,5,8,0,0,62.5
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,New Zealand,Finn Allen,2,c Russell b Joseph,Out,26,23,3,1,113.04
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,New Zealand,Rachin Ravindra,3,c Russell b Motie,Out,10,13,0,0,76.92
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,New Zealand,Kane Williamson (c),4,c Pooran b Motie,Out,1,2,0,0,50
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,New Zealand,Daryl Mitchell,5,b Motie,Out,12,13,1,0,92.3
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,New Zealand,Glenn Phillips,6,c Powell b Joseph,Out,40,33,3,2,121.21
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,New Zealand,James Neesham,7,c King b Joseph,Out,10,11,0,1,90.9
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,New Zealand,Mitchell Santner,8,not out,Not_Out,21,12,0,3,175
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,New Zealand,Tim Southee,9,c & b Joseph,Out,0,1,0,0,0
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,New Zealand,Trent Boult,10,c Chase b Russell,Out,7,4,0,1,175
+T20I # 2672,West-Indies vs New-Zealand-26Th-Match-Group-C-1415726,New Zealand,Lockie Ferguson,11,not out,Not_Out,0,0,0,0,-
+T20I # 2671,United-States-Of-America vs India-25Th-Match-Group-A-1415725,United States of America,Shayan Jahangir,1,lbw b Arshdeep Singh,Out,0,1,0,0,0
+T20I # 2671,United-States-Of-America vs India-25Th-Match-Group-A-1415725,United States of America,Steven Taylor,2,b Patel,Out,24,30,0,2,80
+T20I # 2671,United-States-Of-America vs India-25Th-Match-Group-A-1415725,United States of America,Andries Gous ,3,c Pandya b Arshdeep Singh,Out,2,5,0,0,40
+T20I # 2671,United-States-Of-America vs India-25Th-Match-Group-A-1415725,United States of America,Aaron Jones (c),4,c Mohammed Siraj b Pandya,Out,11,22,0,1,50
+T20I # 2671,United-States-Of-America vs India-25Th-Match-Group-A-1415725,United States of America,Nitish Kumar,5,c Mohammed Siraj b Arshdeep Singh,Out,27,23,2,1,117.39
+T20I # 2671,United-States-Of-America vs India-25Th-Match-Group-A-1415725,United States of America,Corey Anderson,6,c Pant b Pandya,Out,15,12,1,1,125
+T20I # 2671,United-States-Of-America vs India-25Th-Match-Group-A-1415725,United States of America,Harmeet Singh,7,c Pant b Arshdeep Singh,Out,10,10,0,1,100
+T20I # 2671,United-States-Of-America vs India-25Th-Match-Group-A-1415725,United States of America,Shadley van Schalkwyk,8,not out,Not_Out,11,10,1,0,110
+T20I # 2671,United-States-Of-America vs India-25Th-Match-Group-A-1415725,United States of America,Jasdeep Singh,9,run out (Pant/Mohammed Siraj),Out,2,7,0,0,28.57
+T20I # 2671,United-States-Of-America vs India-25Th-Match-Group-A-1415725,India,Rohit Sharma (c),1,c Harmeet Singh b Netravalkar,Out,3,6,0,0,50
+T20I # 2671,United-States-Of-America vs India-25Th-Match-Group-A-1415725,India,Virat Kohli,2,c Gous b Netravalkar,Out,0,1,0,0,0
+T20I # 2671,United-States-Of-America vs India-25Th-Match-Group-A-1415725,India,Rishabh Pant ,3,b Ali Khan,Out,18,20,1,1,90
+T20I # 2671,United-States-Of-America vs India-25Th-Match-Group-A-1415725,India,Suryakumar Yadav,4,not out,Not_Out,50,49,2,2,102.04
+T20I # 2671,United-States-Of-America vs India-25Th-Match-Group-A-1415725,India,Shivam Dube,5,not out,Not_Out,31,35,1,1,88.57
+T20I # 2666,Australia vs Namibia-24Th-Match-Group-B-1415724,Namibia,Michael van Lingen,1,c Maxwell b Hazlewood,Out,10,10,2,0,100
+T20I # 2666,Australia vs Namibia-24Th-Match-Group-B-1415724,Namibia,Nikolaas Davin,2,c Maxwell b Hazlewood,Out,2,7,0,0,28.57
+T20I # 2666,Australia vs Namibia-24Th-Match-Group-B-1415724,Namibia,Jan Frylinck,3,c Marsh b Cummins,Out,1,6,0,0,16.66
+T20I # 2666,Australia vs Namibia-24Th-Match-Group-B-1415724,Namibia,Gerhard Erasmus (c),4,c Maxwell b Stoinis,Out,36,43,4,1,83.72
+T20I # 2666,Australia vs Namibia-24Th-Match-Group-B-1415724,Namibia,JJ Smit,5,lbw b Ellis,Out,3,9,0,0,33.33
+T20I # 2666,Australia vs Namibia-24Th-Match-Group-B-1415724,Namibia,Zane Green ,6,lbw b Zampa,Out,1,4,0,0,25
+T20I # 2666,Australia vs Namibia-24Th-Match-Group-B-1415724,Namibia,David Wiese,7,c Hazlewood b Zampa,Out,1,7,0,0,14.28
+T20I # 2666,Australia vs Namibia-24Th-Match-Group-B-1415724,Namibia,Ruben Trumpelmann,8,c Maxwell b Zampa,Out,7,7,0,1,100
+T20I # 2666,Australia vs Namibia-24Th-Match-Group-B-1415724,Namibia,Bernard Scholtz,9,b Zampa,Out,0,2,0,0,0
+T20I # 2666,Australia vs Namibia-24Th-Match-Group-B-1415724,Namibia,Jack Brassell,10,not out,Not_Out,2,3,0,0,66.66
+T20I # 2666,Australia vs Namibia-24Th-Match-Group-B-1415724,Namibia,Ben Shikongo,11,c David b Stoinis,Out,0,4,0,0,0
+T20I # 2666,Australia vs Namibia-24Th-Match-Group-B-1415724,Australia,David Warner,1,c Trumpelmann b Wiese,Out,20,8,3,1,250
+T20I # 2666,Australia vs Namibia-24Th-Match-Group-B-1415724,Australia,Travis Head,2,not out,Not_Out,34,17,5,2,200
+T20I # 2666,Australia vs Namibia-24Th-Match-Group-B-1415724,Australia,Mitchell Marsh (c),3,not out,Not_Out,18,9,3,1,200
+T20I # 2665,Canada vs Pakistan-22Nd-Match-Group-A-1415722,Canada,Aaron Johnson,1,b Naseem Shah,Out,52,44,4,4,118.18
+T20I # 2665,Canada vs Pakistan-22Nd-Match-Group-A-1415722,Canada,Navneet Dhaliwal,2,b Mohammad Amir,Out,4,7,1,0,57.14
+T20I # 2665,Canada vs Pakistan-22Nd-Match-Group-A-1415722,Canada,Pargat Singh,3,c Fakhar Zaman b Shaheen Shah Afridi,Out,2,6,0,0,33.33
+T20I # 2665,Canada vs Pakistan-22Nd-Match-Group-A-1415722,Canada,Nicholas Kirton,4,run out (Imad Wasim),Out,1,6,0,0,16.66
+T20I # 2665,Canada vs Pakistan-22Nd-Match-Group-A-1415722,Canada,Shreyas Movva ,5,c Mohammad Rizwan b Haris Rauf,Out,2,9,0,0,22.22
+T20I # 2665,Canada vs Pakistan-22Nd-Match-Group-A-1415722,Canada,Ravinderpal Singh,6,c Fakhar Zaman b Haris Rauf,Out,0,2,0,0,0
+T20I # 2665,Canada vs Pakistan-22Nd-Match-Group-A-1415722,Canada,Saad Bin Zafar (c),7,c Mohammad Rizwan b Mohammad Amir,Out,10,21,1,0,47.61
+T20I # 2665,Canada vs Pakistan-22Nd-Match-Group-A-1415722,Canada,Kaleem Sana,8,not out,Not_Out,13,14,0,1,92.85
+T20I # 2665,Canada vs Pakistan-22Nd-Match-Group-A-1415722,Canada,Dilon Heyliger,9,not out,Not_Out,9,11,1,0,81.81
+T20I # 2665,Canada vs Pakistan-22Nd-Match-Group-A-1415722,Pakistan,Mohammad Rizwan ,1,not out,Not_Out,53,53,2,1,100
+T20I # 2665,Canada vs Pakistan-22Nd-Match-Group-A-1415722,Pakistan,Saim Ayub,2,c Movva b Heyliger,Out,6,12,0,0,50
+T20I # 2665,Canada vs Pakistan-22Nd-Match-Group-A-1415722,Pakistan,Babar Azam (c),3,c Movva b Heyliger,Out,33,33,1,1,100
+T20I # 2665,Canada vs Pakistan-22Nd-Match-Group-A-1415722,Pakistan,Fakhar Zaman,4,c sub (DS Bajwa) b Gordon,Out,4,6,0,0,66.66
+T20I # 2665,Canada vs Pakistan-22Nd-Match-Group-A-1415722,Pakistan,Usman Khan,5,not out,Not_Out,2,1,0,0,200
+T20I # 2664,Bangladesh vs South-Africa-21St-Match-Group-D-1415721,South Africa,Quinton de Kock ,1,b Tanzim Hasan Sakib,Out,18,11,1,2,163.63
+T20I # 2664,Bangladesh vs South-Africa-21St-Match-Group-D-1415721,South Africa,Reeza Hendricks,2,lbw b Tanzim Hasan Sakib,Out,0,1,0,0,0
+T20I # 2664,Bangladesh vs South-Africa-21St-Match-Group-D-1415721,South Africa,Aiden Markram (c),3,b Taskin Ahmed,Out,4,8,1,0,50
+T20I # 2664,Bangladesh vs South-Africa-21St-Match-Group-D-1415721,South Africa,Tristan Stubbs,4,c Shakib Al Hasan b Tanzim Hasan Sakib,Out,0,5,0,0,0
+T20I # 2664,Bangladesh vs South-Africa-21St-Match-Group-D-1415721,South Africa,Heinrich Klaasen,5,b Taskin Ahmed,Out,46,44,2,3,104.54
+T20I # 2664,Bangladesh vs South-Africa-21St-Match-Group-D-1415721,South Africa,David Miller,6,b Rishad Hossain,Out,29,38,1,1,76.31
+T20I # 2664,Bangladesh vs South-Africa-21St-Match-Group-D-1415721,South Africa,Marco Jansen,7,not out,Not_Out,5,5,0,0,100
+T20I # 2664,Bangladesh vs South-Africa-21St-Match-Group-D-1415721,South Africa,Keshav Maharaj,8,not out,Not_Out,4,8,0,0,50
+T20I # 2664,Bangladesh vs South-Africa-21St-Match-Group-D-1415721,Bangladesh,Tanzid Hasan,1,c de Kock b Rabada,Out,9,9,2,0,100
+T20I # 2664,Bangladesh vs South-Africa-21St-Match-Group-D-1415721,Bangladesh,Najmul Hossain Shanto (c),2,c Markram b Nortje,Out,14,23,0,1,60.86
+T20I # 2664,Bangladesh vs South-Africa-21St-Match-Group-D-1415721,Bangladesh,Litton Das ,3,c Miller b Maharaj,Out,9,13,1,0,69.23
+T20I # 2664,Bangladesh vs South-Africa-21St-Match-Group-D-1415721,Bangladesh,Shakib Al Hasan,4,c Markram b Nortje,Out,3,4,0,0,75
+T20I # 2664,Bangladesh vs South-Africa-21St-Match-Group-D-1415721,Bangladesh,Towhid Hridoy,5,lbw b Rabada,Out,37,34,2,2,108.82
+T20I # 2664,Bangladesh vs South-Africa-21St-Match-Group-D-1415721,Bangladesh,Mahmudullah,6,c Markram b Maharaj,Out,20,27,2,0,74.07
+T20I # 2664,Bangladesh vs South-Africa-21St-Match-Group-D-1415721,Bangladesh,Jaker Ali,7,c Markram b Maharaj,Out,8,9,0,0,88.88
+T20I # 2664,Bangladesh vs South-Africa-21St-Match-Group-D-1415721,Bangladesh,Rishad Hossain,8,not out,Not_Out,0,1,0,0,0
+T20I # 2664,Bangladesh vs South-Africa-21St-Match-Group-D-1415721,Bangladesh,Taskin Ahmed,9,not out,Not_Out,1,1,0,0,100
+T20I # 2659,Oman vs Scotland-20Th-Match-Group-B-1415720,Oman,Pratik Athavale ,1,c McMullen b Greaves,Out,54,40,5,2,135
+T20I # 2659,Oman vs Scotland-20Th-Match-Group-B-1415720,Oman,Naseem Khushi,2,c Watt b Sole,Out,10,9,0,1,111.11
+T20I # 2659,Oman vs Scotland-20Th-Match-Group-B-1415720,Oman,Aqib Ilyas (c),3,lbw b Sharif,Out,16,6,2,1,266.66
+T20I # 2659,Oman vs Scotland-20Th-Match-Group-B-1415720,Oman,Zeeshan Maqsood,4,c Cross b Watt,Out,3,4,0,0,75
+T20I # 2659,Oman vs Scotland-20Th-Match-Group-B-1415720,Oman,Khalid Kail,5,run out (Sole/Watt),Out,5,7,0,0,71.42
+T20I # 2659,Oman vs Scotland-20Th-Match-Group-B-1415720,Oman,Ayaan Khan,6,not out,Not_Out,41,39,4,0,105.12
+T20I # 2659,Oman vs Scotland-20Th-Match-Group-B-1415720,Oman,Mehran Khan,7,c Cross b Sharif,Out,13,10,2,0,130
+T20I # 2659,Oman vs Scotland-20Th-Match-Group-B-1415720,Oman,Rafiullah,8,c Sharif b Wheal,Out,0,3,0,0,0
+T20I # 2659,Oman vs Scotland-20Th-Match-Group-B-1415720,Oman,Shakeel Ahmed,9,not out,Not_Out,3,2,0,0,150
+T20I # 2659,Oman vs Scotland-20Th-Match-Group-B-1415720,Scotland,George Munsey,1,c Shakeel Ahmed b Mehran Khan,Out,41,20,2,4,205
+T20I # 2659,Oman vs Scotland-20Th-Match-Group-B-1415720,Scotland,Michael Jones,2,c Mehran Khan b Bilal Khan,Out,16,13,1,2,123.07
+T20I # 2659,Oman vs Scotland-20Th-Match-Group-B-1415720,Scotland,Brandon McMullen,3,not out,Not_Out,61,31,9,2,196.77
+T20I # 2659,Oman vs Scotland-20Th-Match-Group-B-1415720,Scotland,Richie Berrington (c),4,b Aqib Ilyas,Out,13,7,1,1,185.71
+T20I # 2659,Oman vs Scotland-20Th-Match-Group-B-1415720,Scotland,Matthew Cross ,5,not out,Not_Out,15,8,0,2,187.5
+T20I # 2658,India vs Pakistan-19Th-Match-Group-A-1415719,India,Rohit Sharma (c),1,c Haris Rauf b Shaheen Shah Afridi,Out,13,12,1,1,108.33
+T20I # 2658,India vs Pakistan-19Th-Match-Group-A-1415719,India,Virat Kohli,2,c Usman Khan b Naseem Shah,Out,4,3,1,0,133.33
+T20I # 2658,India vs Pakistan-19Th-Match-Group-A-1415719,India,Rishabh Pant ,3,c Babar Azam b Mohammad Amir,Out,42,31,6,0,135.48
+T20I # 2658,India vs Pakistan-19Th-Match-Group-A-1415719,India,Axar Patel,4,b Naseem Shah,Out,20,18,2,1,111.11
+T20I # 2658,India vs Pakistan-19Th-Match-Group-A-1415719,India,Suryakumar Yadav,5,c Mohammad Amir b Haris Rauf,Out,7,8,1,0,87.5
+T20I # 2658,India vs Pakistan-19Th-Match-Group-A-1415719,India,Shivam Dube,6,c & b Naseem Shah,Out,3,9,0,0,33.33
+T20I # 2658,India vs Pakistan-19Th-Match-Group-A-1415719,India,Hardik Pandya,7,c Iftikhar Ahmed b Haris Rauf,Out,7,12,1,0,58.33
+T20I # 2658,India vs Pakistan-19Th-Match-Group-A-1415719,India,Ravindra Jadeja,8,c Imad Wasim b Mohammad Amir,Out,0,1,0,0,0
+T20I # 2658,India vs Pakistan-19Th-Match-Group-A-1415719,India,Arshdeep Singh,9,run out (Babar Azam/Mohammad Rizwan),Out,9,13,1,0,69.23
+T20I # 2658,India vs Pakistan-19Th-Match-Group-A-1415719,India,Jasprit Bumrah,10,c Imad Wasim b Haris Rauf,Out,0,1,0,0,0
+T20I # 2658,India vs Pakistan-19Th-Match-Group-A-1415719,India,Mohammed Siraj,11,not out,Not_Out,7,7,0,0,100
+T20I # 2658,India vs Pakistan-19Th-Match-Group-A-1415719,Pakistan,Mohammad Rizwan ,1,b Bumrah,Out,31,44,1,1,70.45
+T20I # 2658,India vs Pakistan-19Th-Match-Group-A-1415719,Pakistan,Babar Azam (c),2,c Yadav b Bumrah,Out,13,10,2,0,130
+T20I # 2658,India vs Pakistan-19Th-Match-Group-A-1415719,Pakistan,Usman Khan,3,lbw b Patel,Out,13,15,1,0,86.66
+T20I # 2658,India vs Pakistan-19Th-Match-Group-A-1415719,Pakistan,Fakhar Zaman,4,c Pant b Pandya,Out,13,8,1,1,162.5
+T20I # 2658,India vs Pakistan-19Th-Match-Group-A-1415719,Pakistan,Imad Wasim,5,c Pant b Arshdeep Singh,Out,15,23,1,0,65.21
+T20I # 2658,India vs Pakistan-19Th-Match-Group-A-1415719,Pakistan,Shadab Khan,6,c Pant b Pandya,Out,4,7,0,0,57.14
+T20I # 2658,India vs Pakistan-19Th-Match-Group-A-1415719,Pakistan,Iftikhar Ahmed,7,c Arshdeep Singh b Bumrah,Out,5,9,0,0,55.55
+T20I # 2658,India vs Pakistan-19Th-Match-Group-A-1415719,Pakistan,Shaheen Shah Afridi,8,not out,Not_Out,0,1,0,0,0
+T20I # 2658,India vs Pakistan-19Th-Match-Group-A-1415719,Pakistan,Naseem Shah,9,not out,Not_Out,10,4,2,0,250
+T20I # 2651,West-Indies vs Uganda-18Th-Match-Group-C-1415718,West Indies,Brandon King,1,b Ramjani,Out,13,8,2,0,162.5
+T20I # 2651,West-Indies vs Uganda-18Th-Match-Group-C-1415718,West Indies,Johnson Charles,2,c Ramjani b Nakrani,Out,44,42,4,2,104.76
+T20I # 2651,West-Indies vs Uganda-18Th-Match-Group-C-1415718,West Indies,Nicholas Pooran ,3,c & b Masaba,Out,22,17,0,3,129.41
+T20I # 2651,West-Indies vs Uganda-18Th-Match-Group-C-1415718,West Indies,Rovman Powell (c),4,c Obuya b Masaba,Out,23,18,1,1,127.77
+T20I # 2651,West-Indies vs Uganda-18Th-Match-Group-C-1415718,West Indies,Sherfane Rutherford,5,b Kyewuta,Out,22,16,2,1,137.5
+T20I # 2651,West-Indies vs Uganda-18Th-Match-Group-C-1415718,West Indies,Andre Russell,6,not out,Not_Out,30,17,6,0,176.47
+T20I # 2651,West-Indies vs Uganda-18Th-Match-Group-C-1415718,West Indies,Romario Shepherd,7,not out,Not_Out,5,5,0,0,100
+T20I # 2651,West-Indies vs Uganda-18Th-Match-Group-C-1415718,Uganda,Roger Mukasa,1,lbw b Hosein,Out,0,2,0,0,0
+T20I # 2651,West-Indies vs Uganda-18Th-Match-Group-C-1415718,Uganda,Simon Ssesazi ,2,c Joseph b Shepherd,Out,4,3,1,0,133.33
+T20I # 2651,West-Indies vs Uganda-18Th-Match-Group-C-1415718,Uganda,Robinson Obuya,3,b Russell,Out,6,8,1,0,75
+T20I # 2651,West-Indies vs Uganda-18Th-Match-Group-C-1415718,Uganda,Alpesh Ramjani,4,lbw b Hosein,Out,5,6,1,0,83.33
+T20I # 2651,West-Indies vs Uganda-18Th-Match-Group-C-1415718,Uganda,Kenneth Waiswa,5,lbw b Hosein,Out,1,10,0,0,10
+T20I # 2651,West-Indies vs Uganda-18Th-Match-Group-C-1415718,Uganda,Riazat Ali Shah,6,b Hosein,Out,3,8,0,0,37.5
+T20I # 2651,West-Indies vs Uganda-18Th-Match-Group-C-1415718,Uganda,Dinesh Nakrani,7,b Hosein,Out,0,2,0,0,0
+T20I # 2651,West-Indies vs Uganda-18Th-Match-Group-C-1415718,Uganda,Brian Masaba (c),8,c Pooran b Joseph,Out,1,4,0,0,25
+T20I # 2651,West-Indies vs Uganda-18Th-Match-Group-C-1415718,Uganda,Juma Miyagi,9,not out,Not_Out,13,20,0,0,65
+T20I # 2651,West-Indies vs Uganda-18Th-Match-Group-C-1415718,Uganda,Cosmas Kyewuta,10,lbw b Motie,Out,1,6,0,0,16.66
+T20I # 2651,West-Indies vs Uganda-18Th-Match-Group-C-1415718,Uganda,Frank Nsubuga,11,b Joseph,Out,0,3,0,0,0
+T20I # 2650,Australia vs England-17Th-Match-Group-B-1415717,Australia,Travis Head,1,b Archer,Out,34,18,2,3,188.88
+T20I # 2650,Australia vs England-17Th-Match-Group-B-1415717,Australia,David Warner,2,b Ali,Out,39,16,2,4,243.75
+T20I # 2650,Australia vs England-17Th-Match-Group-B-1415717,Australia,Mitchell Marsh (c),3,st Buttler b Livingstone,Out,35,25,2,2,140
+T20I # 2650,Australia vs England-17Th-Match-Group-B-1415717,Australia,Glenn Maxwell,4,c Salt b Rashid,Out,28,25,3,1,112
+T20I # 2650,Australia vs England-17Th-Match-Group-B-1415717,Australia,Marcus Stoinis,5,c Brook b Jordan,Out,30,17,2,2,176.47
+T20I # 2650,Australia vs England-17Th-Match-Group-B-1415717,Australia,Tim David,6,c Livingstone b Jordan,Out,11,8,0,1,137.5
+T20I # 2650,Australia vs England-17Th-Match-Group-B-1415717,Australia,Matthew Wade ,7,not out,Not_Out,17,10,3,0,170
+T20I # 2650,Australia vs England-17Th-Match-Group-B-1415717,Australia,Pat Cummins,8,run out (Buttler/Jordan),Out,0,1,0,0,0
+T20I # 2650,Australia vs England-17Th-Match-Group-B-1415717,Australia,Mitchell Starc,9,not out,Not_Out,0,0,0,0,-
+T20I # 2650,Australia vs England-17Th-Match-Group-B-1415717,England,Phil Salt,1,b Zampa,Out,37,23,4,2,160.86
+T20I # 2650,Australia vs England-17Th-Match-Group-B-1415717,England,Jos Buttler (c),2,c Cummins b Zampa,Out,42,28,5,2,150
+T20I # 2650,Australia vs England-17Th-Match-Group-B-1415717,England,Will Jacks,3,c Starc b Stoinis,Out,10,10,1,0,100
+T20I # 2650,Australia vs England-17Th-Match-Group-B-1415717,England,Jonny Bairstow,4,c Maxwell b Hazlewood,Out,7,13,0,0,53.84
+T20I # 2650,Australia vs England-17Th-Match-Group-B-1415717,England,Moeen Ali,5,c Warner b Cummins,Out,25,15,0,3,166.66
+T20I # 2650,Australia vs England-17Th-Match-Group-B-1415717,England,Harry Brook,6,not out,Not_Out,20,16,2,0,125
+T20I # 2650,Australia vs England-17Th-Match-Group-B-1415717,England,Liam Livingstone,7,c Starc b Cummins,Out,15,12,0,1,125
+T20I # 2650,Australia vs England-17Th-Match-Group-B-1415717,England,Chris Jordan,8,not out,Not_Out,1,3,0,0,33.33
+T20I # 2649,Netherlands vs South-Africa-16Th-Match-Group-D-1415716,Netherlands,Michael Levitt,1,c de Kock b Jansen,Out,0,3,0,0,0
+T20I # 2649,Netherlands vs South-Africa-16Th-Match-Group-D-1415716,Netherlands,Max O'Dowd,2,c Jansen b Baartman,Out,2,6,0,0,33.33
+T20I # 2649,Netherlands vs South-Africa-16Th-Match-Group-D-1415716,Netherlands,Vikramjit Singh,3,b Jansen,Out,12,17,1,0,70.58
+T20I # 2649,Netherlands vs South-Africa-16Th-Match-Group-D-1415716,Netherlands,Sybrand Engelbrecht,4,c Jansen b Baartman,Out,40,45,2,1,88.88
+T20I # 2649,Netherlands vs South-Africa-16Th-Match-Group-D-1415716,Netherlands,Bas de Leede,5,c Miller b Nortje,Out,6,16,0,0,37.5
+T20I # 2649,Netherlands vs South-Africa-16Th-Match-Group-D-1415716,Netherlands,Scott Edwards (c),6,run out (Markram),Out,10,9,0,1,111.11
+T20I # 2649,Netherlands vs South-Africa-16Th-Match-Group-D-1415716,Netherlands,Teja Nidamanuru,7,c Klaasen b Nortje,Out,0,1,0,0,0
+T20I # 2649,Netherlands vs South-Africa-16Th-Match-Group-D-1415716,Netherlands,Logan van Beek,8,c Nortje b Baartman,Out,23,22,3,0,104.54
+T20I # 2649,Netherlands vs South-Africa-16Th-Match-Group-D-1415716,Netherlands,Tim Pringle,9,c Markram b Baartman,Out,0,2,0,0,0
+T20I # 2649,Netherlands vs South-Africa-16Th-Match-Group-D-1415716,Netherlands,Paul van Meekeren,10,not out,Not_Out,1,1,0,0,100
+T20I # 2649,Netherlands vs South-Africa-16Th-Match-Group-D-1415716,South Africa,Reeza Hendricks,1,b van Beek,Out,3,10,0,0,30
+T20I # 2649,Netherlands vs South-Africa-16Th-Match-Group-D-1415716,South Africa,Quinton de Kock ,2,run out (van Meekeren/O'Dowd),Out,0,0,0,0,-
+T20I # 2649,Netherlands vs South-Africa-16Th-Match-Group-D-1415716,South Africa,Aiden Markram (c),3,c Edwards b Kingma,Out,0,3,0,0,0
+T20I # 2649,Netherlands vs South-Africa-16Th-Match-Group-D-1415716,South Africa,Tristan Stubbs,4,c van Beek b de Leede,Out,33,37,1,1,89.18
+T20I # 2649,Netherlands vs South-Africa-16Th-Match-Group-D-1415716,South Africa,Heinrich Klaasen,5,c Pringle b Kingma,Out,4,7,0,0,57.14
+T20I # 2649,Netherlands vs South-Africa-16Th-Match-Group-D-1415716,South Africa,David Miller,6,not out,Not_Out,59,51,3,4,115.68
+T20I # 2649,Netherlands vs South-Africa-16Th-Match-Group-D-1415716,South Africa,Marco Jansen,7,b van Beek,Out,3,5,0,0,60
+T20I # 2649,Netherlands vs South-Africa-16Th-Match-Group-D-1415716,South Africa,Keshav Maharaj,8,not out,Not_Out,0,1,0,0,0
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Sri Lanka,Pathum Nissanka,1,c Najmul Hossain Shanto b Mustafizur Rahman,Out,47,28,7,1,167.85
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Sri Lanka,Kusal Mendis ,2,b Taskin Ahmed,Out,10,8,2,0,125
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Sri Lanka,Kamindu Mendis,3,c Tanzim Hasan Sakib b Mustafizur Rahman,Out,4,5,1,0,80
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Sri Lanka,Dhananjaya de Silva,4,st Litton Das b Rishad Hossain,Out,21,26,1,0,80.76
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Sri Lanka,Charith Asalanka,5,c Shakib Al Hasan b Rishad Hossain,Out,19,21,0,1,90.47
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Sri Lanka,Wanindu Hasaranga (c),6,c Soumya Sarkar b Rishad Hossain,Out,0,1,0,0,0
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Sri Lanka,Angelo Mathews,7,c Mustafizur Rahman b Tanzim Hasan Sakib,Out,16,19,1,0,84.21
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Sri Lanka,Dasun Shanaka,8,c Litton Das b Taskin Ahmed,Out,3,7,0,0,42.85
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Sri Lanka,Maheesh Theekshana,9,c Tanzim Hasan Sakib b Mustafizur Rahman,Out,0,3,0,0,0
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Sri Lanka,Matheesha Pathirana,10,not out,Not_Out,0,1,0,0,0
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Sri Lanka,Nuwan Thushara,11,not out,Not_Out,0,1,0,0,0
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Bangladesh,Tanzid Hasan,1,b Thushara,Out,3,6,0,0,50
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Bangladesh,Soumya Sarkar,2,c Hasaranga b de Silva,Out,0,2,0,0,0
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Bangladesh,Litton Das ,3,lbw b Hasaranga,Out,36,38,2,1,94.73
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Bangladesh,Najmul Hossain Shanto (c),4,c Asalanka b Thushara,Out,7,13,0,0,53.84
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Bangladesh,Towhid Hridoy,5,lbw b Hasaranga,Out,40,20,1,4,200
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Bangladesh,Shakib Al Hasan,6,c Theekshana b Pathirana,Out,8,14,0,0,57.14
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Bangladesh,Mahmudullah,7,not out,Not_Out,16,13,0,1,123.07
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Bangladesh,Rishad Hossain,8,b Thushara,Out,1,3,0,0,33.33
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Bangladesh,Taskin Ahmed,9,lbw b Thushara,Out,0,1,0,0,0
+T20I # 2646,Bangladesh vs Sri-Lanka-15Th-Match-Group-D-1415715,Bangladesh,Tanzim Hasan Sakib,10,not out,Not_Out,1,4,0,0,25
+T20I # 2645,Afghanistan vs New-Zealand-14Th-Match-Group-C-1415714,Afghanistan,Rahmanullah Gurbaz ,1,b Boult,Out,80,56,5,5,142.85
+T20I # 2645,Afghanistan vs New-Zealand-14Th-Match-Group-C-1415714,Afghanistan,Ibrahim Zadran,2,b Henry,Out,44,41,3,2,107.31
+T20I # 2645,Afghanistan vs New-Zealand-14Th-Match-Group-C-1415714,Afghanistan,Azmatullah Omarzai,3,c Ferguson b Henry,Out,22,13,1,2,169.23
+T20I # 2645,Afghanistan vs New-Zealand-14Th-Match-Group-C-1415714,Afghanistan,Mohammad Nabi,4,c Williamson b Ferguson,Out,0,1,0,0,0
+T20I # 2645,Afghanistan vs New-Zealand-14Th-Match-Group-C-1415714,Afghanistan,Rashid Khan (c),5,run out (Conway/Boult),Out,6,5,1,0,120
+T20I # 2645,Afghanistan vs New-Zealand-14Th-Match-Group-C-1415714,Afghanistan,Karim Janat,6,not out,Not_Out,1,1,0,0,100
+T20I # 2645,Afghanistan vs New-Zealand-14Th-Match-Group-C-1415714,Afghanistan,Gulbadin Naib,7,c Phillips b Boult,Out,0,2,0,0,0
+T20I # 2645,Afghanistan vs New-Zealand-14Th-Match-Group-C-1415714,Afghanistan,Najibullah Zadran,8,not out,Not_Out,1,1,0,0,100
+T20I # 2645,Afghanistan vs New-Zealand-14Th-Match-Group-C-1415714,New Zealand,Finn Allen,1,b Fazalhaq Farooqi,Out,0,1,0,0,0
+T20I # 2645,Afghanistan vs New-Zealand-14Th-Match-Group-C-1415714,New Zealand,Devon Conway ,2,c Ibrahim Zadran b Fazalhaq Farooqi,Out,8,10,1,0,80
+T20I # 2645,Afghanistan vs New-Zealand-14Th-Match-Group-C-1415714,New Zealand,Kane Williamson (c),3,c Gulbadin Naib b Rashid Khan,Out,9,13,1,0,69.23
+T20I # 2645,Afghanistan vs New-Zealand-14Th-Match-Group-C-1415714,New Zealand,Daryl Mitchell,4,c Rahmanullah Gurbaz b Fazalhaq Farooqi,Out,5,5,1,0,100
+T20I # 2645,Afghanistan vs New-Zealand-14Th-Match-Group-C-1415714,New Zealand,Glenn Phillips,5,c Rashid Khan b Mohammad Nabi,Out,18,18,2,0,100
+T20I # 2645,Afghanistan vs New-Zealand-14Th-Match-Group-C-1415714,New Zealand,Mark Chapman,6,b Rashid Khan,Out,4,7,0,0,57.14
+T20I # 2645,Afghanistan vs New-Zealand-14Th-Match-Group-C-1415714,New Zealand,Michael Bracewell,7,lbw b Rashid Khan,Out,0,1,0,0,0
+T20I # 2645,Afghanistan vs New-Zealand-14Th-Match-Group-C-1415714,New Zealand,Mitchell Santner,8,b Mohammad Nabi,Out,4,8,0,0,50
+T20I # 2645,Afghanistan vs New-Zealand-14Th-Match-Group-C-1415714,New Zealand,Matt Henry,9,c Karim Janat b Fazalhaq Farooqi,Out,12,17,0,1,70.58
+T20I # 2645,Afghanistan vs New-Zealand-14Th-Match-Group-C-1415714,New Zealand,Lockie Ferguson,10,c & b Rashid Khan,Out,2,5,0,0,40
+T20I # 2645,Afghanistan vs New-Zealand-14Th-Match-Group-C-1415714,New Zealand,Trent Boult,11,not out,Not_Out,3,7,0,0,42.85
+T20I # 2644,Canada vs Ireland-13Th-Match-Group-A-1415713,Canada,Aaron Johnson,1,c Campher b Young,Out,14,13,3,0,107.69
+T20I # 2644,Canada vs Ireland-13Th-Match-Group-A-1415713,Canada,Navneet Dhaliwal,2,c Dockrell b Adair,Out,6,10,1,0,60
+T20I # 2644,Canada vs Ireland-13Th-Match-Group-A-1415713,Canada,Pargat Singh,3,c Little b Young,Out,18,14,2,0,128.57
+T20I # 2644,Canada vs Ireland-13Th-Match-Group-A-1415713,Canada,Dilpreet Bajwa,4,c & b Delany,Out,7,9,1,0,77.77
+T20I # 2644,Canada vs Ireland-13Th-Match-Group-A-1415713,Canada,Nicholas Kirton,5,c Balbirnie b McCarthy,Out,49,35,3,2,140
+T20I # 2644,Canada vs Ireland-13Th-Match-Group-A-1415713,Canada,Shreyas Movva ,6,run out (McCarthy/Tucker),Out,37,36,3,0,102.77
+T20I # 2644,Canada vs Ireland-13Th-Match-Group-A-1415713,Canada,Dilon Heyliger,7,c Little b McCarthy,Out,0,2,0,0,0
+T20I # 2644,Canada vs Ireland-13Th-Match-Group-A-1415713,Canada,Saad Bin Zafar (c),8,not out,Not_Out,1,1,0,0,100
+T20I # 2644,Canada vs Ireland-13Th-Match-Group-A-1415713,Ireland,Andy Balbirnie,1,c & b Junaid Siddiqui,Out,17,19,1,0,89.47
+T20I # 2644,Canada vs Ireland-13Th-Match-Group-A-1415713,Ireland,Paul Stirling (c),2,c Movva b Gordon,Out,9,17,1,0,52.94
+T20I # 2644,Canada vs Ireland-13Th-Match-Group-A-1415713,Ireland,Lorcan Tucker ,3,run out (Kirton/Saad Bin Zafar),Out,10,15,0,0,66.66
+T20I # 2644,Canada vs Ireland-13Th-Match-Group-A-1415713,Ireland,Harry Tector,4,b Saad Bin Zafar,Out,7,5,0,0,140
+T20I # 2644,Canada vs Ireland-13Th-Match-Group-A-1415713,Ireland,Curtis Campher,5,c Johnson b Heyliger,Out,4,7,0,0,57.14
+T20I # 2644,Canada vs Ireland-13Th-Match-Group-A-1415713,Ireland,George Dockrell,6,not out,Not_Out,30,23,2,1,130.43
+T20I # 2644,Canada vs Ireland-13Th-Match-Group-A-1415713,Ireland,Gareth Delany,7,c Movva b Heyliger,Out,3,7,0,0,42.85
+T20I # 2644,Canada vs Ireland-13Th-Match-Group-A-1415713,Ireland,Mark Adair,8,c & b Gordon,Out,34,24,3,1,141.66
+T20I # 2644,Canada vs Ireland-13Th-Match-Group-A-1415713,Ireland,Barry McCarthy,9,not out,Not_Out,2,3,0,0,66.66
+T20I # 2643,Namibia vs Scotland-12Th-Match-Group-B-1415712,Namibia,JP Kotze,1,c McMullen b Wheal,Out,0,3,0,0,0
+T20I # 2643,Namibia vs Scotland-12Th-Match-Group-B-1415712,Namibia,Nikolaas Davin,2,c Currie b Sole,Out,20,12,4,0,166.66
+T20I # 2643,Namibia vs Scotland-12Th-Match-Group-B-1415712,Namibia,Jan Frylinck,3,b Currie,Out,12,14,2,0,85.71
+T20I # 2643,Namibia vs Scotland-12Th-Match-Group-B-1415712,Namibia,Gerhard Erasmus (c),4,st Cross b Leask,Out,52,31,5,2,167.74
+T20I # 2643,Namibia vs Scotland-12Th-Match-Group-B-1415712,Namibia,Malan Kruger,5,c Jones b Greaves,Out,2,8,0,0,25
+T20I # 2643,Namibia vs Scotland-12Th-Match-Group-B-1415712,Namibia,Zane Green ,6,c Jones b Wheal,Out,28,27,1,1,103.7
+T20I # 2643,Namibia vs Scotland-12Th-Match-Group-B-1415712,Namibia,David Wiese,7,c Watt b Wheal,Out,14,13,0,1,107.69
+T20I # 2643,Namibia vs Scotland-12Th-Match-Group-B-1415712,Namibia,Ruben Trumpelmann,8,c Wheal b Currie,Out,1,2,0,0,50
+T20I # 2643,Namibia vs Scotland-12Th-Match-Group-B-1415712,Namibia,JJ Smit,9,run out (Jones/Wheal),Out,11,8,0,1,137.5
+T20I # 2643,Namibia vs Scotland-12Th-Match-Group-B-1415712,Namibia,Bernard Scholtz,10,not out,Not_Out,6,4,0,0,150
+T20I # 2643,Namibia vs Scotland-12Th-Match-Group-B-1415712,Namibia,Tangeni Lungameni,11,not out,Not_Out,0,0,0,0,-
+T20I # 2643,Namibia vs Scotland-12Th-Match-Group-B-1415712,Scotland,George Munsey,1,c Wiese b Lungameni,Out,7,15,0,0,46.66
+T20I # 2643,Namibia vs Scotland-12Th-Match-Group-B-1415712,Scotland,Michael Jones,2,c Green b Erasmus,Out,26,20,3,1,130
+T20I # 2643,Namibia vs Scotland-12Th-Match-Group-B-1415712,Scotland,Brandon McMullen,3,st Green b Erasmus,Out,19,17,2,0,111.76
+T20I # 2643,Namibia vs Scotland-12Th-Match-Group-B-1415712,Scotland,Richie Berrington (c),4,not out,Not_Out,47,35,2,2,134.28
+T20I # 2643,Namibia vs Scotland-12Th-Match-Group-B-1415712,Scotland,Matthew Cross ,5,lbw b Scholtz,Out,3,5,0,0,60
+T20I # 2643,Namibia vs Scotland-12Th-Match-Group-B-1415712,Scotland,Michael Leask,6,c Wiese b Trumpelmann,Out,35,17,0,4,205.88
+T20I # 2643,Namibia vs Scotland-12Th-Match-Group-B-1415712,Scotland,Chris Greaves,7,not out,Not_Out,4,3,0,0,133.33
+T20I # 2642,United-States-Of-America vs Pakistan-11Th-Match-Group-A-1415711,Pakistan,Mohammad Rizwan,1,c Taylor b Netravalkar,Out,9,8,0,1,112.5
+T20I # 2642,United-States-Of-America vs Pakistan-11Th-Match-Group-A-1415711,Pakistan,Babar Azam (c),2,lbw b Jasdeep Singh,Out,44,43,3,2,102.32
+T20I # 2642,United-States-Of-America vs Pakistan-11Th-Match-Group-A-1415711,Pakistan,Usman Khan,3,c Kumar b Kenjige,Out,3,3,0,0,100
+T20I # 2642,United-States-Of-America vs Pakistan-11Th-Match-Group-A-1415711,Pakistan,Fakhar Zaman,4,c Taylor b Ali Khan,Out,11,7,0,1,157.14
+T20I # 2642,United-States-Of-America vs Pakistan-11Th-Match-Group-A-1415711,Pakistan,Shadab Khan,5,c Netravalkar b Kenjige,Out,40,25,1,3,160
+T20I # 2642,United-States-Of-America vs Pakistan-11Th-Match-Group-A-1415711,Pakistan,Azam Khan ,6,lbw b Kenjige,Out,0,1,0,0,0
+T20I # 2642,United-States-Of-America vs Pakistan-11Th-Match-Group-A-1415711,Pakistan,Iftikhar Ahmed,7,lbw b Netravalkar,Out,18,14,3,0,128.57
+T20I # 2642,United-States-Of-America vs Pakistan-11Th-Match-Group-A-1415711,Pakistan,Shaheen Shah Afridi,8,not out,Not_Out,23,16,1,2,143.75
+T20I # 2642,United-States-Of-America vs Pakistan-11Th-Match-Group-A-1415711,Pakistan,Haris Rauf,9,not out,Not_Out,3,3,0,0,100
+T20I # 2642,United-States-Of-America vs Pakistan-11Th-Match-Group-A-1415711,United States of America,Steven Taylor,1,c Mohammad Rizwan b Naseem Shah,Out,12,16,1,0,75
+T20I # 2642,United-States-Of-America vs Pakistan-11Th-Match-Group-A-1415711,United States of America,Monank Patel (c),2,c Mohammad Rizwan b Mohammad Amir,Out,50,38,7,1,131.57
+T20I # 2642,United-States-Of-America vs Pakistan-11Th-Match-Group-A-1415711,United States of America,Andries Gous,3,b Haris Rauf,Out,35,26,5,1,134.61
+T20I # 2642,United-States-Of-America vs Pakistan-11Th-Match-Group-A-1415711,United States of America,Aaron Jones,4,not out,Not_Out,36,26,2,2,138.46
+T20I # 2642,United-States-Of-America vs Pakistan-11Th-Match-Group-A-1415711,United States of America,Nitish Kumar,5,not out,Not_Out,14,14,1,0,100
+T20I # 2641,Australia vs Oman-10Th-Match-Group-B-1415710,Australia,David Warner,1,c Shoaib Khan b Kaleemullah,Out,56,51,6,1,109.8
+T20I # 2641,Australia vs Oman-10Th-Match-Group-B-1415710,Australia,Travis Head,2,c Khalid Kail b Bilal Khan,Out,12,10,2,0,120
+T20I # 2641,Australia vs Oman-10Th-Match-Group-B-1415710,Australia,Mitchell Marsh (c),3,c Shoaib Khan b Mehran Khan,Out,14,21,2,0,66.66
+T20I # 2641,Australia vs Oman-10Th-Match-Group-B-1415710,Australia,Glenn Maxwell,4,c Aqib Ilyas b Mehran Khan,Out,0,1,0,0,0
+T20I # 2641,Australia vs Oman-10Th-Match-Group-B-1415710,Australia,Marcus Stoinis,5,not out,Not_Out,67,36,2,6,186.11
+T20I # 2641,Australia vs Oman-10Th-Match-Group-B-1415710,Australia,Tim David,6,run out (Ayaan Khan/Athavale),Out,9,4,2,0,225
+T20I # 2641,Australia vs Oman-10Th-Match-Group-B-1415710,Oman,Kashyap Prajapati,1,lbw b Ellis,Out,7,16,1,0,43.75
+T20I # 2641,Australia vs Oman-10Th-Match-Group-B-1415710,Oman,Pratik Athavale ,2,lbw b Starc,Out,0,1,0,0,0
+T20I # 2641,Australia vs Oman-10Th-Match-Group-B-1415710,Oman,Aqib Ilyas (c),3,c Wade b Stoinis,Out,18,18,2,1,100
+T20I # 2641,Australia vs Oman-10Th-Match-Group-B-1415710,Oman,Zeeshan Maqsood,4,c Wade b Stoinis,Out,1,7,0,0,14.28
+T20I # 2641,Australia vs Oman-10Th-Match-Group-B-1415710,Oman,Khalid Kail,5,c Maxwell b Starc,Out,8,12,1,0,66.66
+T20I # 2641,Australia vs Oman-10Th-Match-Group-B-1415710,Oman,Ayaan Khan,6,c Hazlewood b Zampa,Out,36,30,2,2,120
+T20I # 2641,Australia vs Oman-10Th-Match-Group-B-1415710,Oman,Shoaib Khan,7,b Zampa,Out,0,4,0,0,0
+T20I # 2641,Australia vs Oman-10Th-Match-Group-B-1415710,Oman,Mehran Khan,8,c David b Stoinis,Out,27,16,1,2,168.75
+T20I # 2641,Australia vs Oman-10Th-Match-Group-B-1415710,Oman,Shakeel Ahmed,9,c Warner b Ellis,Out,11,10,1,0,110
+T20I # 2641,Australia vs Oman-10Th-Match-Group-B-1415710,Oman,Kaleemullah,10,not out,Not_Out,6,4,0,0,150
+T20I # 2641,Australia vs Oman-10Th-Match-Group-B-1415710,Oman,Bilal Khan,11,not out,Not_Out,1,2,0,0,50
+T20I # 2640,Papua-New-Guinea vs Uganda-9Th-Match-Group-C-1415709,Papua New Guinea,Assad Vala (c),1,lbw b Ramjani,Out,0,2,0,0,0
+T20I # 2640,Papua-New-Guinea vs Uganda-9Th-Match-Group-C-1415709,Papua New Guinea,Tony Ura,2,c Mukasa b Kyewuta,Out,2,6,0,0,33.33
+T20I # 2640,Papua-New-Guinea vs Uganda-9Th-Match-Group-C-1415709,Papua New Guinea,Sese Bau,3,c Mukasa b Miyagi,Out,5,9,1,0,55.55
+T20I # 2640,Papua-New-Guinea vs Uganda-9Th-Match-Group-C-1415709,Papua New Guinea,Lega Siaka,4,run out (Kyewuta/Ssesazi),Out,12,17,1,0,70.58
+T20I # 2640,Papua-New-Guinea vs Uganda-9Th-Match-Group-C-1415709,Papua New Guinea,Hiri Hiri,5,lbw b Nsubuga,Out,15,19,2,0,78.94
+T20I # 2640,Papua-New-Guinea vs Uganda-9Th-Match-Group-C-1415709,Papua New Guinea,Charles Amini,6,b Nsubuga,Out,5,14,0,0,35.71
+T20I # 2640,Papua-New-Guinea vs Uganda-9Th-Match-Group-C-1415709,Papua New Guinea,Kiplin Doriga ,7,lbw b Ramjani,Out,12,20,0,1,60
+T20I # 2640,Papua-New-Guinea vs Uganda-9Th-Match-Group-C-1415709,Papua New Guinea,Chad Soper,8,b Masaba,Out,4,11,0,0,36.36
+T20I # 2640,Papua-New-Guinea vs Uganda-9Th-Match-Group-C-1415709,Papua New Guinea,Norman Vanua,9,c Ssesazi b Kyewuta,Out,5,10,0,0,50
+T20I # 2640,Papua-New-Guinea vs Uganda-9Th-Match-Group-C-1415709,Papua New Guinea,Alei Nao,10,b Miyagi,Out,5,6,0,0,83.33
+T20I # 2640,Papua-New-Guinea vs Uganda-9Th-Match-Group-C-1415709,Papua New Guinea,John Kariko,11,not out,Not_Out,0,2,0,0,0
+T20I # 2640,Papua-New-Guinea vs Uganda-9Th-Match-Group-C-1415709,Uganda,Roger Mukasa,1,lbw b Nao,Out,0,3,0,0,0
+T20I # 2640,Papua-New-Guinea vs Uganda-9Th-Match-Group-C-1415709,Uganda,Simon Ssesazi ,2,lbw b Nao,Out,1,3,0,0,33.33
+T20I # 2640,Papua-New-Guinea vs Uganda-9Th-Match-Group-C-1415709,Uganda,Robinson Obuya,3,c Vala b Vanua,Out,1,2,0,0,50
+T20I # 2640,Papua-New-Guinea vs Uganda-9Th-Match-Group-C-1415709,Uganda,Riazat Ali Shah,4,c Kariko b Vanua,Out,33,56,1,0,58.92
+T20I # 2640,Papua-New-Guinea vs Uganda-9Th-Match-Group-C-1415709,Uganda,Alpesh Ramjani,5,b Soper,Out,8,10,1,0,80
+T20I # 2640,Papua-New-Guinea vs Uganda-9Th-Match-Group-C-1415709,Uganda,Dinesh Nakrani,6,c & b Vala,Out,0,3,0,0,0
+T20I # 2640,Papua-New-Guinea vs Uganda-9Th-Match-Group-C-1415709,Uganda,Juma Miyagi,7,run out (Vanua/Nao),Out,13,16,0,0,81.25
+T20I # 2640,Papua-New-Guinea vs Uganda-9Th-Match-Group-C-1415709,Uganda,Kenneth Waiswa,8,not out,Not_Out,7,16,0,0,43.75
+T20I # 2640,Papua-New-Guinea vs Uganda-9Th-Match-Group-C-1415709,Uganda,Brian Masaba (c),9,not out,Not_Out,0,1,0,0,0
+T20I # 2639,India vs Ireland-8Th-Match-Group-A-1415708,Ireland,Andy Balbirnie,1,b Arshdeep Singh,Out,5,10,1,0,50
+T20I # 2639,India vs Ireland-8Th-Match-Group-A-1415708,Ireland,Paul Stirling (c),2,c Pant b Arshdeep Singh,Out,2,6,0,0,33.33
+T20I # 2639,India vs Ireland-8Th-Match-Group-A-1415708,Ireland,Lorcan Tucker ,3,b Pandya,Out,10,13,2,0,76.92
+T20I # 2639,India vs Ireland-8Th-Match-Group-A-1415708,Ireland,Harry Tector,4,c Kohli b Bumrah,Out,4,16,0,0,25
+T20I # 2639,India vs Ireland-8Th-Match-Group-A-1415708,Ireland,Curtis Campher,5,c Pant b Pandya,Out,12,8,1,1,150
+T20I # 2639,India vs Ireland-8Th-Match-Group-A-1415708,Ireland,George Dockrell,6,c Bumrah b Mohammed Siraj,Out,3,5,0,0,60
+T20I # 2639,India vs Ireland-8Th-Match-Group-A-1415708,Ireland,Gareth Delany,7,run out (Mohammed Siraj/Pant),Out,26,14,2,2,185.71
+T20I # 2639,India vs Ireland-8Th-Match-Group-A-1415708,Ireland,Mark Adair,8,c Dube b Pandya,Out,3,2,0,0,150
+T20I # 2639,India vs Ireland-8Th-Match-Group-A-1415708,Ireland,Barry McCarthy,9,c & b Patel,Out,0,6,0,0,0
+T20I # 2639,India vs Ireland-8Th-Match-Group-A-1415708,Ireland,Josh Little,10,b Bumrah,Out,14,13,2,0,107.69
+T20I # 2639,India vs Ireland-8Th-Match-Group-A-1415708,Ireland,Ben White,11,not out,Not_Out,2,4,0,0,50
+T20I # 2639,India vs Ireland-8Th-Match-Group-A-1415708,India,Rohit Sharma (c),1,retired hurt,Out,52,37,4,3,140.54
+T20I # 2639,India vs Ireland-8Th-Match-Group-A-1415708,India,Virat Kohli,2,c White b Adair,Out,1,5,0,0,20
+T20I # 2639,India vs Ireland-8Th-Match-Group-A-1415708,India,Rishabh Pant ,3,not out,Not_Out,36,26,3,2,138.46
+T20I # 2639,India vs Ireland-8Th-Match-Group-A-1415708,India,Suryakumar Yadav,4,c Dockrell b White,Out,2,4,0,0,50
+T20I # 2639,India vs Ireland-8Th-Match-Group-A-1415708,India,Shivam Dube,5,not out,Not_Out,0,2,0,0,0
+T20I # 2638,Nepal vs Netherlands-7Th-Match-Group-D-1415707,Nepal,Kushal Bhurtel,1,lbw b van Beek,Out,7,10,1,0,70
+T20I # 2638,Nepal vs Netherlands-7Th-Match-Group-D-1415707,Nepal,Aasif Sheikh ,2,c Kingma b Pringle,Out,4,8,1,0,50
+T20I # 2638,Nepal vs Netherlands-7Th-Match-Group-D-1415707,Nepal,Anil Sah,3,c van Beek b Pringle,Out,11,12,2,0,91.66
+T20I # 2638,Nepal vs Netherlands-7Th-Match-Group-D-1415707,Nepal,Rohit Paudel (c),4,c O'Dowd b Pringle,Out,35,37,5,0,94.59
+T20I # 2638,Nepal vs Netherlands-7Th-Match-Group-D-1415707,Nepal,Kushal Malla,5,c O'Dowd b van Meekeren,Out,9,9,1,0,100
+T20I # 2638,Nepal vs Netherlands-7Th-Match-Group-D-1415707,Nepal,Dipendra Singh Airee,6,c van Beek b de Leede,Out,1,6,0,0,16.66
+T20I # 2638,Nepal vs Netherlands-7Th-Match-Group-D-1415707,Nepal,Sompal Kami,7,b van Meekeren,Out,0,5,0,0,0
+T20I # 2638,Nepal vs Netherlands-7Th-Match-Group-D-1415707,Nepal,Gulsan Jha,8,b van Beek,Out,14,15,0,1,93.33
+T20I # 2638,Nepal vs Netherlands-7Th-Match-Group-D-1415707,Nepal,Karan KC,9,c Kingma b de Leede,Out,17,12,0,2,141.66
+T20I # 2638,Nepal vs Netherlands-7Th-Match-Group-D-1415707,Nepal,Sagar Dhakal,10,not out,Not_Out,0,1,0,0,0
+T20I # 2638,Nepal vs Netherlands-7Th-Match-Group-D-1415707,Nepal,Abinash Bohara,11,c & b van Beek,Out,0,1,0,0,0
+T20I # 2638,Nepal vs Netherlands-7Th-Match-Group-D-1415707,Netherlands,Michael Levitt,1,c Airee b Sompal Kami,Out,1,3,0,0,33.33
+T20I # 2638,Nepal vs Netherlands-7Th-Match-Group-D-1415707,Netherlands,Max O'Dowd,2,not out,Not_Out,54,48,4,1,112.5
+T20I # 2638,Nepal vs Netherlands-7Th-Match-Group-D-1415707,Netherlands,Vikramjit Singh,3,lbw b Airee,Out,22,28,4,0,78.57
+T20I # 2638,Nepal vs Netherlands-7Th-Match-Group-D-1415707,Netherlands,Sybrand Engelbrecht,4,run out (Sompal Kami),Out,14,16,1,0,87.5
+T20I # 2638,Nepal vs Netherlands-7Th-Match-Group-D-1415707,Netherlands,Scott Edwards (c),5,b Bohara,Out,5,8,0,0,62.5
+T20I # 2638,Nepal vs Netherlands-7Th-Match-Group-D-1415707,Netherlands,Bas de Leede,6,not out,Not_Out,11,10,1,0,110
+T20I # 2636,Afghanistan vs Uganda-5Th-Match-Group-C-1415705,Afghanistan,Rahmanullah Gurbaz ,1,c Riazat Ali Shah b Ramjani,Out,76,45,4,4,168.88
+T20I # 2636,Afghanistan vs Uganda-5Th-Match-Group-C-1415705,Afghanistan,Ibrahim Zadran,2,b Masaba,Out,70,46,9,1,152.17
+T20I # 2636,Afghanistan vs Uganda-5Th-Match-Group-C-1415705,Afghanistan,Najibullah Zadran,3,c Nakrani b Masaba,Out,2,3,0,0,66.66
+T20I # 2636,Afghanistan vs Uganda-5Th-Match-Group-C-1415705,Afghanistan,Mohammad Nabi,4,not out,Not_Out,14,16,0,0,87.5
+T20I # 2636,Afghanistan vs Uganda-5Th-Match-Group-C-1415705,Afghanistan,Gulbadin Naib,5,c Masaba b Kyewuta,Out,4,5,0,0,80
+T20I # 2636,Afghanistan vs Uganda-5Th-Match-Group-C-1415705,Afghanistan,Azmatullah Omarzai,6,c Ramjani b Kyewuta,Out,5,5,0,0,100
+T20I # 2636,Afghanistan vs Uganda-5Th-Match-Group-C-1415705,Afghanistan,Rashid Khan (c),7,not out,Not_Out,2,1,0,0,200
+T20I # 2636,Afghanistan vs Uganda-5Th-Match-Group-C-1415705,Uganda,Ronak Patel,1,b Fazalhaq Farooqi,Out,4,2,1,0,200
+T20I # 2636,Afghanistan vs Uganda-5Th-Match-Group-C-1415705,Uganda,Simon Ssesazi ,2,c Fazalhaq Farooqi b Mujeeb Ur Rahman,Out,4,4,1,0,100
+T20I # 2636,Afghanistan vs Uganda-5Th-Match-Group-C-1415705,Uganda,Roger Mukasa,3,lbw b Fazalhaq Farooqi,Out,0,1,0,0,0
+T20I # 2636,Afghanistan vs Uganda-5Th-Match-Group-C-1415705,Uganda,Riazat Ali Shah,4,b Fazalhaq Farooqi,Out,11,34,0,0,32.35
+T20I # 2636,Afghanistan vs Uganda-5Th-Match-Group-C-1415705,Uganda,Dinesh Nakrani,5,b Naveen-ul-Haq,Out,6,8,1,0,75
+T20I # 2636,Afghanistan vs Uganda-5Th-Match-Group-C-1415705,Uganda,Alpesh Ramjani,6,c Gulbadin Naib b Naveen-ul-Haq,Out,0,2,0,0,0
+T20I # 2636,Afghanistan vs Uganda-5Th-Match-Group-C-1415705,Uganda,Robinson Obuya,7,c Rahmanullah Gurbaz b Fazalhaq Farooqi,Out,14,25,0,1,56
+T20I # 2636,Afghanistan vs Uganda-5Th-Match-Group-C-1415705,Uganda,Brian Masaba (c),8,c Rahmanullah Gurbaz b Fazalhaq Farooqi,Out,0,1,0,0,0
+T20I # 2636,Afghanistan vs Uganda-5Th-Match-Group-C-1415705,Uganda,Bilal Hassan,9,lbw b Rashid Khan,Out,8,16,1,0,50
+T20I # 2636,Afghanistan vs Uganda-5Th-Match-Group-C-1415705,Uganda,Cosmas Kyewuta,10,not out,Not_Out,2,2,0,0,100
+T20I # 2636,Afghanistan vs Uganda-5Th-Match-Group-C-1415705,Uganda,Henry Ssenyondo,11,b Rashid Khan,Out,0,1,0,0,0
+T20I # 2635,South-Africa vs Sri-Lanka-4Th-Match-Group-D-1415704,Sri Lanka,Pathum Nissanka,1,c Klaasen b Baartman,Out,3,8,0,0,37.5
+T20I # 2635,South-Africa vs Sri-Lanka-4Th-Match-Group-D-1415704,Sri Lanka,Kusal Mendis ,2,c Stubbs b Nortje,Out,19,30,1,0,63.33
+T20I # 2635,South-Africa vs Sri-Lanka-4Th-Match-Group-D-1415704,Sri Lanka,Kamindu Mendis,3,c Hendricks b Nortje,Out,11,15,1,0,73.33
+T20I # 2635,South-Africa vs Sri-Lanka-4Th-Match-Group-D-1415704,Sri Lanka,Wanindu Hasaranga (c),4,st de Kock b Maharaj,Out,0,2,0,0,0
+T20I # 2635,South-Africa vs Sri-Lanka-4Th-Match-Group-D-1415704,Sri Lanka,Sadeera Samarawickrama,5,b Maharaj,Out,0,1,0,0,0
+T20I # 2635,South-Africa vs Sri-Lanka-4Th-Match-Group-D-1415704,Sri Lanka,Charith Asalanka,6,c Hendricks b Nortje,Out,6,9,0,0,66.66
+T20I # 2635,South-Africa vs Sri-Lanka-4Th-Match-Group-D-1415704,Sri Lanka,Angelo Mathews,7,c Baartman b Nortje,Out,16,16,0,2,100
+T20I # 2635,South-Africa vs Sri-Lanka-4Th-Match-Group-D-1415704,Sri Lanka,Dasun Shanaka,8,b Rabada,Out,9,10,0,1,90
+T20I # 2635,South-Africa vs Sri-Lanka-4Th-Match-Group-D-1415704,Sri Lanka,Maheesh Theekshana,9,not out,Not_Out,7,16,1,0,43.75
+T20I # 2635,South-Africa vs Sri-Lanka-4Th-Match-Group-D-1415704,Sri Lanka,Matheesha Pathirana,10,c Markram b Rabada,Out,0,4,0,0,0
+T20I # 2635,South-Africa vs Sri-Lanka-4Th-Match-Group-D-1415704,Sri Lanka,Nuwan Thushara,11,run out (Nortje/Jansen),Out,0,4,0,0,0
+T20I # 2635,South-Africa vs Sri-Lanka-4Th-Match-Group-D-1415704,South Africa,Quinton de Kock ,1,c & b Hasaranga,Out,20,27,0,1,74.07
+T20I # 2635,South-Africa vs Sri-Lanka-4Th-Match-Group-D-1415704,South Africa,Reeza Hendricks,2,c PHKD Mendis b Thushara,Out,4,2,1,0,200
+T20I # 2635,South-Africa vs Sri-Lanka-4Th-Match-Group-D-1415704,South Africa,Aiden Markram (c),3,c PHKD Mendis b Shanaka,Out,12,14,0,1,85.71
+T20I # 2635,South-Africa vs Sri-Lanka-4Th-Match-Group-D-1415704,South Africa,Tristan Stubbs,4,c Asalanka b Hasaranga,Out,13,28,0,0,46.42
+T20I # 2635,South-Africa vs Sri-Lanka-4Th-Match-Group-D-1415704,South Africa,Heinrich Klaasen,5,not out,Not_Out,19,22,1,1,86.36
+T20I # 2635,South-Africa vs Sri-Lanka-4Th-Match-Group-D-1415704,South Africa,David Miller,6,not out,Not_Out,6,6,1,0,100
+T20I # 2634,Namibia vs Oman-3Rd-Match-Group-B-1415703,Oman,Kashyap Prajapati,1,lbw b Trumpelmann,Out,0,1,0,0,0
+T20I # 2634,Namibia vs Oman-3Rd-Match-Group-B-1415703,Oman,Naseem Khushi ,2,c Erasmus b Trumpelmann,Out,6,6,1,0,100
+T20I # 2634,Namibia vs Oman-3Rd-Match-Group-B-1415703,Oman,Aqib Ilyas (c),3,lbw b Trumpelmann,Out,0,1,0,0,0
+T20I # 2634,Namibia vs Oman-3Rd-Match-Group-B-1415703,Oman,Zeeshan Maqsood,4,lbw b Scholtz,Out,22,20,4,0,110
+T20I # 2634,Namibia vs Oman-3Rd-Match-Group-B-1415703,Oman,Khalid Kail,5,c & b Wiese,Out,34,39,1,1,87.17
+T20I # 2634,Namibia vs Oman-3Rd-Match-Group-B-1415703,Oman,Ayaan Khan,6,c Frylinck b Erasmus,Out,15,21,0,1,71.42
+T20I # 2634,Namibia vs Oman-3Rd-Match-Group-B-1415703,Oman,Mohammad Nadeem,7,lbw b Erasmus,Out,6,10,0,0,60
+T20I # 2634,Namibia vs Oman-3Rd-Match-Group-B-1415703,Oman,Mehran Khan,8,lbw b Wiese,Out,7,8,1,0,87.5
+T20I # 2634,Namibia vs Oman-3Rd-Match-Group-B-1415703,Oman,Shakeel Ahmed,9,c Trumpelmann b Wiese,Out,11,9,2,0,122.22
+T20I # 2634,Namibia vs Oman-3Rd-Match-Group-B-1415703,Oman,Kaleemullah,10,lbw b Trumpelmann,Out,2,3,0,0,66.66
+T20I # 2634,Namibia vs Oman-3Rd-Match-Group-B-1415703,Oman,Bilal Khan,11,not out,Not_Out,1,1,0,0,100
+T20I # 2634,Namibia vs Oman-3Rd-Match-Group-B-1415703,Namibia,Michael van Lingen,1,b Bilal Khan,Out,0,2,0,0,0
+T20I # 2634,Namibia vs Oman-3Rd-Match-Group-B-1415703,Namibia,Nikolaas Davin,2,c Mohammad Nadeem b Aqib Ilyas,Out,24,31,2,1,77.41
+T20I # 2634,Namibia vs Oman-3Rd-Match-Group-B-1415703,Namibia,Jan Frylinck,3,b Mehran Khan,Out,45,48,6,0,93.75
+T20I # 2634,Namibia vs Oman-3Rd-Match-Group-B-1415703,Namibia,Gerhard Erasmus (c),4,c Zeeshan Maqsood b Ayaan Khan,Out,13,16,1,0,81.25
+T20I # 2634,Namibia vs Oman-3Rd-Match-Group-B-1415703,Namibia,JJ Smit,5,c Ayaan Khan b Mehran Khan,Out,8,12,1,0,66.66
+T20I # 2634,Namibia vs Oman-3Rd-Match-Group-B-1415703,Namibia,David Wiese,6,not out,Not_Out,9,8,0,1,112.5
+T20I # 2634,Namibia vs Oman-3Rd-Match-Group-B-1415703,Namibia,Zane Green ,7,lbw b Mehran Khan,Out,0,2,0,0,0
+T20I # 2634,Namibia vs Oman-3Rd-Match-Group-B-1415703,Namibia,Malan Kruger,8,not out,Not_Out,1,1,0,0,100
+T20I # 2633,West-Indies vs Papua-New-Guinea-2Nd-Match-Group-C-1415702,Papua New Guinea,Tony Ura,1,c Pooran b Shepherd,Out,2,5,0,0,40
+T20I # 2633,West-Indies vs Papua-New-Guinea-2Nd-Match-Group-C-1415702,Papua New Guinea,Assad Vala (c),2,c Chase b Joseph,Out,21,22,2,1,95.45
+T20I # 2633,West-Indies vs Papua-New-Guinea-2Nd-Match-Group-C-1415702,Papua New Guinea,Lega Siaka,3,b Hosein,Out,1,2,0,0,50
+T20I # 2633,West-Indies vs Papua-New-Guinea-2Nd-Match-Group-C-1415702,Papua New Guinea,Sese Bau,4,b Joseph,Out,50,43,6,1,116.27
+T20I # 2633,West-Indies vs Papua-New-Guinea-2Nd-Match-Group-C-1415702,Papua New Guinea,Hiri Hiri,5,c Powell b Motie,Out,2,6,0,0,33.33
+T20I # 2633,West-Indies vs Papua-New-Guinea-2Nd-Match-Group-C-1415702,Papua New Guinea,Charles Amini,6,c Pooran b Russell,Out,12,14,0,0,85.71
+T20I # 2633,West-Indies vs Papua-New-Guinea-2Nd-Match-Group-C-1415702,Papua New Guinea,Kiplin Doriga ,7,not out,Not_Out,27,18,3,0,150
+T20I # 2633,West-Indies vs Papua-New-Guinea-2Nd-Match-Group-C-1415702,Papua New Guinea,Chad Soper,8,b Russell,Out,10,9,1,0,111.11
+T20I # 2633,West-Indies vs Papua-New-Guinea-2Nd-Match-Group-C-1415702,Papua New Guinea,Alei Nao,9,run out (Joseph),Out,0,0,0,0,-
+T20I # 2633,West-Indies vs Papua-New-Guinea-2Nd-Match-Group-C-1415702,Papua New Guinea,Kabua Morea,10,not out,Not_Out,2,2,0,0,100
+T20I # 2633,West-Indies vs Papua-New-Guinea-2Nd-Match-Group-C-1415702,West Indies,Brandon King,1,c Siaka b Vala,Out,34,29,7,0,117.24
+T20I # 2633,West-Indies vs Papua-New-Guinea-2Nd-Match-Group-C-1415702,West Indies,Johnson Charles,2,lbw b Nao,Out,0,1,0,0,0
+T20I # 2633,West-Indies vs Papua-New-Guinea-2Nd-Match-Group-C-1415702,West Indies,Nicholas Pooran ,3,c Ura b Kariko,Out,27,27,1,2,100
+T20I # 2633,West-Indies vs Papua-New-Guinea-2Nd-Match-Group-C-1415702,West Indies,Roston Chase,4,not out,Not_Out,42,27,4,2,155.55
+T20I # 2633,West-Indies vs Papua-New-Guinea-2Nd-Match-Group-C-1415702,West Indies,Rovman Powell (c),5,c Doriga b Soper,Out,15,14,2,0,107.14
+T20I # 2633,West-Indies vs Papua-New-Guinea-2Nd-Match-Group-C-1415702,West Indies,Sherfane Rutherford,6,c Doriga b Vala,Out,2,7,0,0,28.57
+T20I # 2633,West-Indies vs Papua-New-Guinea-2Nd-Match-Group-C-1415702,West Indies,Andre Russell,7,not out,Not_Out,15,9,0,1,166.66
+T20I # 2632,United-States-Of-America vs Canada-1St-Match-Group-A-1415701,Canada,Aaron Johnson,1,c Kumar b Harmeet Singh,Out,23,16,5,0,143.75
+T20I # 2632,United-States-Of-America vs Canada-1St-Match-Group-A-1415701,Canada,Navneet Dhaliwal,2,c Jasdeep Singh b Anderson,Out,61,44,6,3,138.63
+T20I # 2632,United-States-Of-America vs Canada-1St-Match-Group-A-1415701,Canada,Pargat Singh,3,run out (Jasdeep Singh/Patel),Out,5,7,0,0,71.42
+T20I # 2632,United-States-Of-America vs Canada-1St-Match-Group-A-1415701,Canada,Nicholas Kirton,4,c Anderson b Ali Khan,Out,51,31,3,2,164.51
+T20I # 2632,United-States-Of-America vs Canada-1St-Match-Group-A-1415701,Canada,Shreyas Movva ,5,not out,Not_Out,32,16,2,2,200
+T20I # 2632,United-States-Of-America vs Canada-1St-Match-Group-A-1415701,Canada,Dilpreet Bajwa,6,run out (Taylor/Patel),Out,11,5,1,1,220
+T20I # 2632,United-States-Of-America vs Canada-1St-Match-Group-A-1415701,Canada,Dilon Heyliger,7,not out,Not_Out,1,1,0,0,100
+T20I # 2632,United-States-Of-America vs Canada-1St-Match-Group-A-1415701,United States of America,Steven Taylor,1,lbw b Kaleem Sana,Out,0,2,0,0,0
+T20I # 2632,United-States-Of-America vs Canada-1St-Match-Group-A-1415701,United States of America,Monank Patel (c),2,c Movva b Heyliger,Out,16,16,2,0,100
+T20I # 2632,United-States-Of-America vs Canada-1St-Match-Group-A-1415701,United States of America,Andries Gous,3,c Johnson b Dutta,Out,65,46,7,3,141.3
+T20I # 2632,United-States-Of-America vs Canada-1St-Match-Group-A-1415701,United States of America,Aaron Jones,4,not out,Not_Out,94,40,4,10,235
+T20I # 2632,United-States-Of-America vs Canada-1St-Match-Group-A-1415701,United States of America,Corey Anderson,5,not out,Not_Out,3,5,0,0,60
